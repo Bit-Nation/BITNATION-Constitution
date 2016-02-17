@@ -58,6 +58,8 @@ A new core can be created at anytime, and the holons and citizens can choose to 
 
 The responsibility of core is to manage the key infrastructure, including funds, wallets, domain names, general political positioning, core development priorities, etc.
 
+Core is the genesis holon of a chain of human operated holons in the DBVN, in the same way a genesis block in a cryptocurrency births the blockchain. 
+
 ## 2.2 Holons
 
 Holons are parts within the DBVN, with various degree of autonomy, at various times. Any citizen can start their own holon, for profit or non-for profit, without any central approval. Citizens suggests Holons, and others can choose to finance them or work on them. The holons benefits from the DBVN resources and infrastructure. 
