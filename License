@@ -1,0 +1,71 @@
+LICENSE: NO COPYRIGHT MONOPOLY CLAIMED, NO WARRANTY OF ANY KIND GIVEN
+
+All code in this solution and its subprojects are IN THE PUBLIC DOMAIN,
+unless specificially marked otherwise (when it comes from a different
+package or commercial source).
+
+Where the concept "public domain" does not exist, the copyright monopoly
+license Creative Commons Zero (CC0) is used as a declararation of Public
+Domain, or as an alternative, the Unlicense (see below).
+
+This means that anybody may use this code for absolutely anything. The
+copyright monopoly does not affect it at all. Any question that begins
+with a "but can I" or "but what if", concerning permission to use this
+software, is answered with a "yes". More than that: it's a "yes, and
+why are you so conditioned to ask permission for using knowledge?"
+
+Anybody submitting new code, imagery, or other components to the project
+agrees to put their additions in the public domain. If you're adding a
+third party component, do flag it as external.
+
+
+IMPORTANT EXCEPTIONS are all images and the external libraries found
+in the Bin folder of the Site projects, and in External Libraries.
+The images are flagged with source in their file name. Do not commit
+any new restricted code without prior consensus in the project team.
+
+
+Another way of putting this is the way of the UNLICENSE:
+
+
+The BITNATION Constitution is free and unencumbered software released 
+irrevocably into the public domain.
+
+Anyone is free to copy, modify, publish, use, compile, sell, or
+distribute this software, or do anything else with it; in any form,
+specifically including source code form, as a compiled binary, or
+as an interpretive dance performance; for any purpose, commercial,
+nonprofit, hobby, or otherwise; and by any means, specifically
+including any means you can think of. You are also free to eat it,
+dance with it, or have sex with it. If you figure out that last
+option, the project team appreciates if you share the insight.
+
+In jurisdictions that recognize the immoral exclusive rights of
+copyright monopoly laws, the author or authors of this software
+dedicate any and all copyright monopoly interest in the software
+irrevocably to the public domain. We make this dedication for the
+benefit of the public at large and for the benefit of our heirs and
+successors (albeit explicitly not a "benefit" in the form of an
+immoral and destructive right of exclusivity). We intend this
+dedication to be an overt act of relinquishment in perpetuity of
+all present and future rights of exclusivity to this software
+under copyright monopoly law.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
+IN NO EVENT SHALL THE AUTHORS BE LIABLE FOR ANY CLAIM, DAMAGES OR
+OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE,
+ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR
+OTHER DEALINGS IN THE SOFTWARE.
+
+THE AUTHORS DO NOT WARRANT THAT THIS SOFTWARE WILL PERFORM AS
+EXPECTED, PERFORM OTHER THAN EXPECTED, OR PERFORM AT ALL.
+
+IN THE EVENT OF DAMAGES EXCEEDING TEN MILLION US DOLLARS OR CASUALTIES
+EXCEEDING ONE HUNDRED PEOPLE, THE AFFLICTED USERS AGREE THAT THEY
+STOLE THE SOFTWARE WHILE ON VACATION IN A FOREIGN COUNTRY AND THE
+AUTHORS HAVE NEVER HEARD OF IT.
+
+
+For more information, please refer to <http://unlicense.org/>
