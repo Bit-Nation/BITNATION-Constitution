@@ -114,7 +114,7 @@ We do not judge or select based on the colour of your skin, ethnicity, religion,
 
 We have become aware of our political autonomy. We’re no longer willing to be oppressed by the coercive nation-state oligopoly. We live in Cyberspace, and we work together, to achieve freedom and independence. 
 
-Article 9: We are Privacy and Security.
+# Article 9: We are Privacy and Security.
 
 We will not sell the data of our citizens or customers to any entity, under any circumstances. We strive for client side technology, encryption, and pseudo anonymity. 
 
