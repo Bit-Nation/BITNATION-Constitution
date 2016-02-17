@@ -18,8 +18,8 @@ We are Privacy and Security.
 
 We are Openness and Transparency.
 
-We are a Dream and a Reality.
-
 We are Creativity and Visionary.
+
+We are a Dream and a Reality.
 
 We are Ƀitnation.
