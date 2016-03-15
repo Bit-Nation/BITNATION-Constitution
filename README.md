@@ -62,7 +62,7 @@ Core is the genesis holon of a chain of human operated holons in the DBVN, in th
 
 ## 2.2 Holons
 
-Holons are parts within the DBVN, with various degree of autonomy, at various times. Any citizen can start their own holon, for profit or non-for profit, without any central approval. Citizens suggests Holons, and others can choose to finance them or work on them. The holons benefits from the DBVN resources and infrastructure. 
+Holons are parts within the DBVN, with various degree of autonomy, at various times. Any citizen can start their own holon, for profit or non-for profit, without any central approval. Citizens suggest Holons, and others can choose to finance them or work on them. The holons benefits from the DBVN resources and infrastructure. 
 
 ## 2.3 Citizens
 
@@ -70,7 +70,7 @@ Citizens opt in or out on a voluntary basis, and can be part of several nations,
 
 Citizens should contribute in some way, either through work, computing power or in other ways, to the nation. 
 
-Citizens should have read the constitution, and signed of on the principles.
+Citizens should have read the constitution, and signed off on the principles.
 
 Being a citizen means receiving dividend from the profit of the nation, and being part in building the nation. You do not have to be a citizen to use BITNATION’s services.
 
@@ -80,7 +80,7 @@ We accept homo sapiens, as well as artificial intelligence (AI) agents as citize
 
 ## 2.4 Laws
 
-We practice a Polylegal system, meaning people are free to choose the code of law of their preference, whether that’s Common Law, Sharia Law, Ciwil Law, Pashtunwali, or whatever it may be. People are also free to create new individual laws, or new codes of law. 
+We practice a Polylegal system, meaning people are free to choose the code of law of their preference, whether that’s Common Law, Sharia Law, Civil Law, Pashtunwali, or whatever it may be. People are also free to create new individual laws, or new codes of law. 
 
 Laws can be refereed to, or coded into agreements.
 
@@ -94,7 +94,7 @@ The Archipelago is a loose federation of different virtual nations, allies, emba
 
 # Article 3: We are a Future for Our World and Humanity.
 
-We’ll prevent eternal bloodshed through empowering people to compete through offering better governance services, rather than through imposing a one-fit-all governance model through the use of force. We’re creating a precedent for a beutiful universe of millions of entities, one for each preference and desire.
+We’ll prevent eternal bloodshed through empowering people to compete through offering better governance services, rather than through imposing a one-fit-all governance model through the use of force. We’re creating a precedent for a beautiful universe of millions of entities, one for each preference and desire.
 
 # Article 4: We are Sentinels, Universal and Inalienable.
 
@@ -106,11 +106,11 @@ In our world, problems are mere obstacles, interesting challenges to be solved t
 
 # Article 6: We are Rights and Freedoms.
 
-We honour the Non-Agression Principe (NAP) moral framework. We stand unified against any and all forms of coercion, whether it’s through violence, or the implied threat of violence. We’re building a world based on voluntary agreements between consenting entities. 
+We honour the Non-Aggression Principe (NAP) moral framework. We stand unified against any and all forms of coercion, whether it’s through violence, or the implied threat of violence. We’re building a world based on voluntary agreements between consenting entities. 
 
 # Article 7: We are Tolerant and Accepting.
 
-We do not judge or select based on the colour of your skin, ethnicity, religion, country of origin, sexual preference, or degree of post-human. In our DBVN, everyone who wish to make the world a better place through furthering voluntary agreements, is welcome to be a part of our Nation.
+We do not judge or select based on the colour of your skin, ethnicity, religion, country of origin, sexual preference, or degree of post-human. In our DBVN, everyone who wishes to make the world a better place through furthering voluntary agreements, is welcome to be a part of our Nation.
 
 # Article 8: We are Polity and Entity.
 
