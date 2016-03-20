@@ -48,7 +48,7 @@ An entity providing opt-in core governance services (rule of law, security) to i
 
 # Article 2: We are the Birth of a New Virtual Nation.
 
-We use a holocratic governance model, compromised by different entities with various degrees of autonomy: Core, Holons, Citizens, Laws, The Archipelago:
+We use a holocratic governance model, comprised of different entities with various degrees of autonomy: Core, Holons, Citizens, Laws, The Archipelago:
 
 ## 2.1 Core
 
