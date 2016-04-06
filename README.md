@@ -6,6 +6,12 @@ These 10 lines (articles) has each been entered on the Ethereum blockchain durin
 
 The constitution is meant to be a general framework that grows organically over time through contributions from citizens, through submitting comments and pull requests in this repo.
 
+Further reading:
+Bitnation Foundational Document, Published July 14 2014 https://docs.google.com/document/d/16HDB9AABa5rTOVFJj_8VLdOxgMguovLLAMviaTkZ1q4/edit
+
+Bitnation Whitepaper, Published October 10 2014
+https://docs.google.com/document/d/1r_VqWrKQw07E06XAtMv_cZnFyBZma4PFTBJpM5GuzbA/edit
+
 ---------
 
 We are Ƀitnation.
