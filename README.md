@@ -4,7 +4,7 @@ This poem was found on the BITNATION forum a few weeks after BITNATION was creat
 
 These 10 lines (articles) has each been entered on the Ethereum blockchain during the creation of our Decentralized Borderless Voluntary Nation (DBVN). The articles are intentionally broad because they’ll live forever after on the blockchain, hence they can’t be modified. What can be continuously updated however, is the interpretation of what the articles mean, and how to implement them. To contribute to the meaning of the article, go to this GitHub repo, and open an issue, or do a pull request.
 
-The constitution is meant to be a general framework that grows organically over time through contributions from citizens, through submitting comments and pull requests in this repo.
+The constitution is meant to be a general framework that grows organically over time through contributions from citizens.
 
 ---------
 
