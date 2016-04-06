@@ -134,7 +134,9 @@ Itshappening.gif
 
 We are sovereign. We’re together. We’re the future.
 
+
 --------
+
 
 Further reading:
 Bitnation Foundational Document, Published July 14 2014 https://docs.google.com/document/d/16HDB9AABa5rTOVFJj_8VLdOxgMguovLLAMviaTkZ1q4/edit
