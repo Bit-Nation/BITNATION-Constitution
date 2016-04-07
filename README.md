@@ -115,7 +115,7 @@ We honour the Non-Aggression Principe (NAP) moral framework. We stand unified ag
 We do not judge or select based on the colour of your skin, ethnicity, religion, country of origin, sexual preference, or degree of post-human. In our DBVN, everyone who wishes to make the world a better place through furthering voluntary agreements, is welcome to be a part of our Nation.
 
 # Article 8: We are Polity and Entity.
-
+   
 We have become aware of our political autonomy. We’re no longer willing to be oppressed by the coercive nation-state oligopoly. We live in Cyberspace, and we work together, to achieve freedom and independence. 
 
 # Article 9: We are Privacy and Security.
@@ -143,3 +143,8 @@ Bitnation Foundational Document, Published July 14 2014 https://docs.google.com/
 
 Bitnation Whitepaper, Published October 10 2014
 https://docs.google.com/document/d/1r_VqWrKQw07E06XAtMv_cZnFyBZma4PFTBJpM5GuzbA/edit
+
+An evolutionary Nomic structure for digital rule making in Bitnation, Published Feburary 7 2016
+https://docs.google.com/document/d/1l00egk-PyNIE4-kHZwFGA-asIB_rsIRwtbMPDZ0JYJ8/edit
+
+
