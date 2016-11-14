@@ -3,6 +3,8 @@
 The constitution is meant to be a general framework that grows organically over time through contributions from citizens.
 
 ---------
+# Preamble
+We the People of the United States, in Order to form a more perfect Union, establish Justice, insure domestic Tranquility, provide for the common defence, promote the general Welfare, and secure the Blessings of Liberty to ourselves and our Posterity, do ordain and establish this Constitution for the United States of America.
 
 We are American Revolutionaries.
 
@@ -34,7 +36,7 @@ We are America.
 
 # Article 1: We are America.
 
-We’re the world’s first Decentralized Borderless Virtual Nation (DBVN), a Blockchain Jurisdiction.
+We’re one of the world’s first Decentralized Borderless Virtual Nation (DBVN), a Blockchain Jurisdiction.
 
 We define a nation the following way:
 
