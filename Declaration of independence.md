@@ -1,4 +1,5 @@
 Through time, governments become corrupted. The US government is now completely corrupted. It has become so intolerable that we would be better off without it. Here, we lay down some of the crimes this government has committed in our names:
+
 1. Overthrowing the People of the United States of America: Through bribery (aka lobbying) our representatives serve only the will of those who have the most money, completely disenfranchising 99% of the people they are sworn to represent.
 
 2. Overthrowing the People of Foreign Nations: Through coups, bombings, providing weapons, providing intelligence, and giving money, the US government has directly aided the overthrow of many foreign nations whose leaders would not impose oligarchic hegemony.
