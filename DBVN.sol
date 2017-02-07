@@ -188,7 +188,7 @@ contract DBVN is owned {
             /* If difference between support and opposition is larger than margin */
             p.executed = true;
             p.proposalPassed = true;
-            p.recipient.call.value(p.amount)(transactionBytecode);
+            if(!p.recipient.call.value(p.amount)(transactionBytecode)) throw;
         } else {
             p.executed = true;
             p.proposalPassed = false;
