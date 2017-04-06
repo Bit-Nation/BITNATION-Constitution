@@ -6,6 +6,8 @@ File lincensed under WTFPL: http://www.wtfpl.net
 
 */
 
+pragma solidity ^0.4.0;
+
 contract owned {
     address public owner;
 
@@ -15,7 +17,7 @@ contract owned {
 
     modifier onlyOwner {
         if (msg.sender != owner) throw;
-        _
+        _;
     }
 
     function transferOwnership(address newOwner) onlyOwner {
