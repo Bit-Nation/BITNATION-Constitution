@@ -1,14 +1,12 @@
-# BITNATION-Constitution
+# American-Revolution-Constitution
+
 The constitution is meant to be a general framework that grows organically over time through contributions from citizens.
-Note: This document is what constitutes this nation. For a minor variation, please see the READMEUS.md file.
-
-This poem was found on the BITNATION forum a few weeks after BITNATION was created. It was posted anonymously. A few minor revisions have been made from the original poem, which we've integrated as the framework for our constitution.
-
-These 10 lines (each corresponding to an article) were preserved on the Ethereum blockchain during the creation of our Decentralized Borderless Voluntary Nation (DBVN). The articles are intentionally broad because they’ll live forever on the blockchain. They can’t be modified. However, we can continuously update the interpretation of what the articles mean, and how to implement them. To contribute to the meaning of the article, go to this GitHub repo, and open an issue, or do a pull request.
 
 ---------
+# Preamble
+We the People of the United States, in Order to form a more perfect Union, establish Justice, insure domestic Tranquility, provide for the common defence, promote the general Welfare, and secure the Blessings of Liberty to ourselves and our Posterity, do ordain and establish this Constitution for the United States of America.
 
-We are Ƀitnation.
+We are American Revolutionaries.
 
 We are the Birth of a New Virtual Nation.
 
@@ -30,15 +28,15 @@ We are Openness and Transparency.
 
 We are a Dream and a Reality.
 
-We are Ƀitnation.
+We are America.
 
 
 
 #####
 
-# Article 1: We are Ƀitnation.
+# Article 1: We are America.
 
-We’re the world’s first Decentralized Borderless Virtual Nation (DBVN), a Blockchain Jurisdiction.
+We’re one of the world’s first Decentralized Borderless Virtual Nation (DBVN), a Blockchain Jurisdiction.
 
 We define a nation the following way:
 
