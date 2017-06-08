@@ -195,7 +195,7 @@ contract DBVN is memberPool, constitution {
         p.voted[msg.sender] = true;                     // Set this voter as having voted
         
         // As asked by Susanne: if your fieldOfWork correspond, double your rank
-        if (p.fieldOfWork == m.fieldOfWork) {
+        if (sha3(p.fieldOfWork) == sha3(m.fieldOfWork)) { // small workaround
             rank = rank * 2;
         }
         
