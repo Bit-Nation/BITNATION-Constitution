@@ -121,6 +121,7 @@ contract DBVN is memberPool, constitution {
         address recipient;
         uint amount;
         string description;
+        string fieldOfWork;
         uint waitingWindow;
         bool executed;
         bool proposalPassed;
@@ -158,12 +159,13 @@ contract DBVN is memberPool, constitution {
     }
     
     /* Function to create a new proposal */
-    function newProposalInWei(address beneficiary, uint weiAmount, string JobDescription, bytes transactionBytecode) onlyCanAddProposal returns (uint proposalID) {
+    function newProposalInWei(address beneficiary, uint weiAmount, string JobDescription, string field, bytes transactionBytecode) onlyCanAddProposal returns (uint proposalID) {
         proposalID = proposals.length++;
         Proposal p = proposals[proposalID];
         p.recipient = beneficiary;
         p.amount = weiAmount;
         p.description = JobDescription;
+        p.fieldOfWork = field;
         p.proposalHash = sha3(beneficiary, weiAmount, transactionBytecode);
         p.waitingWindow = now + debatingPeriodInMinutes * 1 minutes;
         p.executed = false;
@@ -174,19 +176,8 @@ contract DBVN is memberPool, constitution {
     }
     
     /* Function to create a new proposal */
-    function newProposalInEther(address beneficiary, uint etherAmount, string JobDescription, bytes transactionBytecode) onlyCanAddProposal returns (uint proposalID) {
-        proposalID = proposals.length++;
-        Proposal p = proposals[proposalID];
-        p.recipient = beneficiary;
-        p.amount = etherAmount * 1 ether;
-        p.description = JobDescription;
-        p.proposalHash = sha3(beneficiary, etherAmount * 1 ether, transactionBytecode);
-        p.waitingWindow = now + debatingPeriodInMinutes * 1 minutes;
-        p.executed = false;
-        p.proposalPassed = false;
-        p.rankSum = 0;
-        ProposalAdded(proposalID, beneficiary, etherAmount, JobDescription);
-        numProposals = proposalID+1;
+    function newProposalInEther(address beneficiary, uint etherAmount, string JobDescription, string field, bytes transactionBytecode) onlyCanAddProposal returns (uint proposalID) {
+        return newProposalInWei(beneficiary, etherAmount * 1 ether, JobDescription, field, transactionBytecode);
     }    
 
     /* function to check if a proposal code matches */
@@ -196,12 +187,19 @@ contract DBVN is memberPool, constitution {
     }
 
     function makeDecision(uint proposalNumber, bool agree) onlyMembers {
-        uint rank = members[memberId[msg.sender]].rank; 
+        Member m = members[memberId[msg.sender]];
+        uint rank = m.rank;
         
         Proposal p = proposals[proposalNumber];         // Get the proposal
         if (p.voted[msg.sender] == true) throw;         // If has already voted, cancel
         p.voted[msg.sender] = true;                     // Set this voter as having voted
-        p.rankSum+= rank;                   // Increase the number of votes
+        
+        // As asked by Susanne: if your fieldOfWork correspond, double your rank
+        if (p.fieldOfWork == m.fieldOfWork) {
+            rank = rank * 2;
+        }
+        
+        p.rankSum += rank;                   // Increase the number of votes
         if (agree) {                         // If they support the proposal
             p.currentResult += int(rank);         // Increase score
         } else {                                        // If they don't
