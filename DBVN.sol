@@ -11,6 +11,8 @@ pragma solidity ^0.4.0;
 contract owned {
     address public owner;
 
+    event OwnerChanged(address owner);
+
     function owned() {
         owner = msg.sender;
     }
@@ -22,28 +24,99 @@ contract owned {
 
     function transferOwnership(address newOwner) onlyOwner {
         owner = newOwner;
+        OwnerChanged(newOwner);
     }
 }
 
-contract DBVN is owned {
+contract constitution is owned {
+    string public constitutionUrl;
+    Article[] public articlesOfConstitution;
+    
+    event ArticleChanged(uint id);
+    
+    struct Article {
+        string summary;
+        bool valid;
+        uint createdAt;
+    }
+    
+    function setConstitutionUrl(string _url) onlyOwner {
+        constitutionUrl = _url;
+    }
+    
+    /* change constitution */
+    function addArticle(string summary) onlyOwner {
+        uint id = articlesOfConstitution.length++;
+        articlesOfConstitution[id] = Article({summary: summary, valid: true, createdAt: now});
+        
+        ArticleChanged(id);
+    }
+    
+    function repealArticle(uint articleID) onlyOwner {
+        Article article = articlesOfConstitution[articleID];
+        article.valid = false;
+        
+        ArticleChanged(articleID);
+    }
+}
 
-    /* Contract Variables and events */
+contract memberPool is owned {
+    mapping (address => uint) public memberId;
+    Member[] public members;
+    
+    event MembershipChanged(address member);
+    
+    struct Member {
+        address member;
+        uint rank;
+        bool canAddProposals;
+        string name;
+        string fieldOfWork;
+        uint memberSince;
+    }
+    
+    modifier onlyCanAddProposal {
+        if (memberId[msg.sender] == 0 || !members[memberId[msg.sender]].canAddProposals) throw;
+        _;
+    }
+    
+    modifier onlyMembers {
+        if (memberId[msg.sender] == 0) throw;
+        _;
+    }
+    
+    /*make member*/
+    function changeMembership(address targetMember, uint rank, bool canAddProposals, string memberName, string _fieldOfWork) onlyOwner {
+        uint id;
+        if (memberId[targetMember] == 0) {
+           memberId[targetMember] = members.length;
+           id = members.length++;
+           members[id] = Member({member: targetMember, rank: rank, canAddProposals: canAddProposals, memberSince: now, name: memberName, fieldOfWork: _fieldOfWork});
+        } else {
+            id = memberId[targetMember];
+            Member m = members[id];
+            m.rank = rank;
+            m.canAddProposals = canAddProposals;
+            m.name = memberName;
+            m.fieldOfWork = _fieldOfWork;
+        }
+
+        MembershipChanged(targetMember);
+    }
+}
+
+contract DBVN is memberPool, constitution {
     uint public rankThreshold;
     uint public debatingPeriodInMinutes;
     int public majorityMargin;
     Proposal[] public proposals;
-    Article[] public articlesOfConstitution;
-    string public constitutionLink;
     uint public numProposals;
-    mapping (address => uint) public memberId;
-    Member[] public members;
-
+    
     event ProposalAdded(uint proposalID, address recipient, uint amount, string description);
     event Voted(uint proposalID, bool position, address voter);
     event ProposalTallied(uint proposalID, int result, uint quorum, bool active);
-    event MembershipChanged(address member);
     event ChangeOfRules(uint minimumQuorum, uint debatingPeriodInMinutes, int majorityMargin);
-
+    
     struct Proposal {
         address recipient;
         uint amount;
@@ -58,77 +131,23 @@ contract DBVN is owned {
         mapping (address => bool) voted;
     }
 
-    struct Article {
-        string summary;
-        bool valid;
-        uint createdAt;
-    }
-    
-    struct Member {
-        address member;
-        uint rank;
-        bool canAddProposals;
-        string name;
-        string work;
-        uint memberSince;
-    }
-
     struct Vote {
         bool inSupport;
         address voter;
         string justification;
     }
-
+    
     /* First time setup */
-    function holon(uint totalRankNeededForDecisions, uint minutesForDebate, int marginOfVotesForMajority, address congressLeader, string constitutionURL) {
+    function DBVN(uint totalRankNeededForDecisions, uint minutesForDebate, int marginOfVotesForMajority, string constitutionURL) {
         rankThreshold = totalRankNeededForDecisions;
         debatingPeriodInMinutes = minutesForDebate;
         majorityMargin = marginOfVotesForMajority;
-        members.length++;
-        members[0] = Member({member: 0, rank: 0, canAddProposals: false, memberSince: now, name: '', work: ''});
-        if (congressLeader != 0) {
-            owner = congressLeader;
-        } else {
-            owner = msg.sender;
-        }
-        constitutionLink = constitutionURL;
-    }
-
-    /* change constitution */
-    function addArticle(string summary) onlyOwner {
-        uint id = articlesOfConstitution.length++;
-        articlesOfConstitution[id] = Article({summary: summary, valid: true, createdAt: now });
+        
+        changeMembership(0, 0, false, '', '');
+        
+        setConstitutionUrl(constitutionURL);
     }
     
-    function repealArticle(uint articleID, bool repeal) onlyOwner {
-        Article article = articlesOfConstitution[articleID];
-        article.valid = !repeal;
-    }
-    
-    function updateConstitutionLink(string newConstitutionLink) onlyOwner {
-        constitutionLink = newConstitutionLink;
-    }
-    
-    /*make member*/
-    function changeMembership(address targetMember, uint rank, bool canAddProposals, string memberName, string fieldOfWork) onlyOwner {
-        uint id;
-        if (memberId[targetMember] == 0) {
-           memberId[targetMember] = members.length;
-           id = members.length++;
-           members[id] = Member({member: targetMember, rank: rank, canAddProposals: canAddProposals, memberSince: now, name: memberName, work: fieldOfWork});
-        } else {
-            id = memberId[targetMember];
-            Member m = members[id];
-            m.rank = rank;
-            m.canAddProposals = canAddProposals;
-            m.name = memberName;
-            m.work = fieldOfWork;
-        }
-
-        MembershipChanged(targetMember);
-
-    }
-
     /*change rules*/
     function changeVotingRules(uint minimumQuorumForProposals, uint minutesForDebate, int marginOfVotesForMajority) onlyOwner {
         rankThreshold = minimumQuorumForProposals;
@@ -138,12 +157,8 @@ contract DBVN is owned {
         ChangeOfRules(rankThreshold, debatingPeriodInMinutes, majorityMargin);
     }
     
-
-    
     /* Function to create a new proposal */
-    function newProposalInWei(address beneficiary, uint weiAmount, string JobDescription, bytes transactionBytecode) returns (uint proposalID) {
-        if (memberId[msg.sender] == 0 || !members[memberId[msg.sender]].canAddProposals) throw;
-        
+    function newProposalInWei(address beneficiary, uint weiAmount, string JobDescription, bytes transactionBytecode) onlyCanAddProposal returns (uint proposalID) {
         proposalID = proposals.length++;
         Proposal p = proposals[proposalID];
         p.recipient = beneficiary;
@@ -159,9 +174,7 @@ contract DBVN is owned {
     }
     
     /* Function to create a new proposal */
-    function newProposalInEther(address beneficiary, uint etherAmount, string JobDescription, bytes transactionBytecode) returns (uint proposalID) {
-        if (memberId[msg.sender] == 0 || !members[memberId[msg.sender]].canAddProposals) throw;
-        
+    function newProposalInEther(address beneficiary, uint etherAmount, string JobDescription, bytes transactionBytecode) onlyCanAddProposal returns (uint proposalID) {
         proposalID = proposals.length++;
         Proposal p = proposals[proposalID];
         p.recipient = beneficiary;
@@ -182,9 +195,7 @@ contract DBVN is owned {
         return p.proposalHash == sha3(beneficiary, amount, transactionBytecode);
     }
 
-    function makeDecision(uint proposalNumber, bool agree) {
-        if (memberId[msg.sender] == 0) throw;
-
+    function makeDecision(uint proposalNumber, bool agree) onlyMembers {
         uint rank = members[memberId[msg.sender]].rank; 
         
         Proposal p = proposals[proposalNumber];         // Get the proposal
@@ -200,7 +211,7 @@ contract DBVN is owned {
         Voted(proposalNumber, agree, msg.sender);
     }
 
-    function executeProposal(uint proposalNumber, bytes transactionBytecode) {
+    function executeProposal(uint proposalNumber, bytes transactionBytecode) onlyMembers {
         Proposal p = proposals[proposalNumber];
         /* Check if the proposal can be executed */
         if (now < p.waitingWindow                                                  // has the voting deadline arrived?  
@@ -222,5 +233,4 @@ contract DBVN is owned {
         // Fire Events
         ProposalTallied(proposalNumber, p.currentResult, p.rankSum, p.proposalPassed);
     }
-
 }
