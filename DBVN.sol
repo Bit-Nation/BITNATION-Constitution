@@ -1,6 +1,6 @@
 /*
 
-This is a first proposal contract code for the seed of the Bitnation DAO
+This is a first proposal contract code for the seed of the Bitnation DBVN
 
 File lincensed under WTFPL: http://www.wtfpl.net
 
@@ -108,14 +108,23 @@ contract memberPool is owned {
 contract DBVN is memberPool, constitution {
     uint public rankThreshold;
     uint public debatingPeriodInMinutes;
-    int public majorityMargin;
+    
+    uint public majorityTier1;
+    uint public majorityTier2;
+    uint public majorityTier3;
+    
+    uint public tier1;
+    uint public tier2;
+    uint public tier3;
+    
     Proposal[] public proposals;
     uint public numProposals;
     
     event ProposalAdded(uint proposalID, address recipient, uint amount, string description);
     event Voted(uint proposalID, bool position, address voter);
     event ProposalTallied(uint proposalID, int result, uint quorum, bool active);
-    event ChangeOfRules(uint minimumQuorum, uint debatingPeriodInMinutes, int majorityMargin);
+    event ChangeOfRules(uint minimumQuorum, uint debatingPeriodInMinutes);
+    event ChangeTiersRules(uint _majorityTier1, uint _tier1, uint _majorityTier2, uint _tier2, uint _majorityTier3, uint _tier3);
     
     struct Proposal {
         address recipient;
@@ -139,23 +148,31 @@ contract DBVN is memberPool, constitution {
     }
     
     /* First time setup */
-    function DBVN(uint totalRankNeededForDecisions, uint minutesForDebate, int marginOfVotesForMajority, string constitutionURL) {
-        rankThreshold = totalRankNeededForDecisions;
-        debatingPeriodInMinutes = minutesForDebate;
-        majorityMargin = marginOfVotesForMajority;
-        
+    function DBVN(uint totalRankNeededForDecisions, uint minutesForDebate, string constitutionURL, uint majorityTier1, uint tier1, uint majorityTier2, uint tier2, uint majorityTier3, uint tier3) {
         changeMembership(0, 0, false, '', '');
+        changeVotingRules(totalRankNeededForDecisions, minutesForDebate);
+        changeTiersRules(majorityTier1, tier1, majorityTier2, tier2, majorityTier3, tier3);
         
         setConstitutionUrl(constitutionURL);
     }
     
     /*change rules*/
-    function changeVotingRules(uint minimumQuorumForProposals, uint minutesForDebate, int marginOfVotesForMajority) onlyOwner {
+    function changeVotingRules(uint minimumQuorumForProposals, uint minutesForDebate) onlyOwner {
         rankThreshold = minimumQuorumForProposals;
         debatingPeriodInMinutes = minutesForDebate;
-        majorityMargin = marginOfVotesForMajority;
 
-        ChangeOfRules(rankThreshold, debatingPeriodInMinutes, majorityMargin);
+        ChangeOfRules(rankThreshold, debatingPeriodInMinutes);
+    }
+    
+    function changeTiersRules(uint _majorityTier1, uint _tier1, uint _majorityTier2, uint _tier2, uint _majorityTier3, uint _tier3) onlyOwner {
+        majorityTier1 = _majorityTier1;
+        tier1 = _tier1;
+        
+        majorityTier2 = _majorityTier2;
+        tier2 = _tier2;
+        
+        majorityTier3 = _majorityTier3;
+        tier3 = _tier3;
     }
     
     /* Function to create a new proposal */
@@ -217,9 +234,16 @@ contract DBVN is memberPool, constitution {
             || p.proposalHash != sha3(p.recipient, p.amount, transactionBytecode)   // Does the transaction code match the proposal? 
             || p.rankSum < rankThreshold)                                    // has minimum quorum?
             throw;
+        
+        uint majorityRequired = majorityTier3; // By default, the highest
+        if (p.amount <= tier1) { // below tier1
+            majorityRequired = majorityTier1;
+        } else if (p.amount > tier1 && p.amount <= tier2) { // between tier1 and tier2
+            majorityRequired = majorityTier2;
+        } // higher
 
         /* execute result */
-        if (p.currentResult > majorityMargin) {     
+        if (p.currentResult > int(majorityRequired)) {     
             /* If difference between support and opposition is larger than margin */
             p.recipient.call.value(p.amount)(transactionBytecode);
             p.executed = true;
