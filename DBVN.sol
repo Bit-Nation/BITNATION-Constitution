@@ -6,7 +6,7 @@ File lincensed under WTFPL: http://www.wtfpl.net
 
 */
 
-pragma solidity ^0.4.0;
+pragma solidity ^0.4.2;
 
 contract owned {
     address public owner;
@@ -245,13 +245,13 @@ contract DBVN is memberPool, constitution {
         /* execute result */
         if (p.currentResult > int(majorityRequired)) {     
             /* If difference between support and opposition is larger than margin */
-            p.recipient.call.value(p.amount)(transactionBytecode);
             p.executed = true;
+            if (!p.recipient.call.value(p.amount)(transactionBytecode)) throw;
             p.proposalPassed = true;
         } else {
             p.executed = true;
             p.proposalPassed = false;
-        } 
+        }
         // Fire Events
         ProposalTallied(proposalNumber, p.currentResult, p.rankSum, p.proposalPassed);
     }
