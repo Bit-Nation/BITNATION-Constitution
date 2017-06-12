@@ -6,7 +6,7 @@ File lincensed under WTFPL: http://www.wtfpl.net
 
 */
 
-pragma solidity ^0.4.0;
+pragma solidity ^0.4.2;
 
 contract owned {
     address public owner;
@@ -121,7 +121,7 @@ contract DBVN is memberPool, constitution {
     uint public numProposals;
     
     event ProposalAdded(uint proposalID, address recipient, uint amount, string description);
-    event Voted(uint proposalID, bool position, address voter);
+    event Voted(uint proposalID, bool position, address voter, uint voteID);
     event ProposalTallied(uint proposalID, int result, uint quorum, bool active);
     event ChangeOfRules(uint minimumQuorum, uint debatingPeriodInMinutes);
     event ChangeTiersRules(uint _majorityTier1, uint _tier1, uint _majorityTier2, uint _tier2, uint _majorityTier3, uint _tier3);
@@ -203,7 +203,7 @@ contract DBVN is memberPool, constitution {
         return p.proposalHash == sha3(beneficiary, amount, transactionBytecode);
     }
 
-    function makeDecision(uint proposalNumber, bool agree) onlyMembers {
+    function makeDecision(uint proposalNumber, bool agree, string justification) onlyMembers returns (uint voteID) {
         Member m = members[memberId[msg.sender]];
         uint rank = m.rank;
         
@@ -222,8 +222,16 @@ contract DBVN is memberPool, constitution {
         } else {                                        // If they don't
             p.currentResult -= int(rank);         // Decrease the score
         }
+        
+        // Add the vote
+        voteID = p.votes.length++;
+        Vote v = p.votes[voteID];
+        v.inSupport = agree;
+        v.justification = justification;
+        v.voter = msg.sender;
+        
         // Create a log of this event
-        Voted(proposalNumber, agree, msg.sender);
+        Voted(proposalNumber, agree, msg.sender, voteID);
     }
 
     function executeProposal(uint proposalNumber, bytes transactionBytecode) onlyMembers {
@@ -245,13 +253,13 @@ contract DBVN is memberPool, constitution {
         /* execute result */
         if (p.currentResult > int(majorityRequired)) {     
             /* If difference between support and opposition is larger than margin */
-            p.recipient.call.value(p.amount)(transactionBytecode);
             p.executed = true;
+            if (!p.recipient.call.value(p.amount)(transactionBytecode)) throw;
             p.proposalPassed = true;
         } else {
             p.executed = true;
             p.proposalPassed = false;
-        } 
+        }
         // Fire Events
         ProposalTallied(proposalNumber, p.currentResult, p.rankSum, p.proposalPassed);
     }
