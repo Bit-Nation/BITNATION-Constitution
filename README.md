@@ -126,6 +126,28 @@ We will not sell the data of our citizens or customers to any entity, under any 
 
 Everyone is welcome to join. Everything we do is public.
 
+Article 10.1 Communications Protocol
+ 
+Clarity above all. Understanding the challenges of communicating across different timezones, culture and personalities both during written and verbal communications.
+ 
+Clarity of purpose: It’s helpful to define the desired outcomes and reasoning behind our written and verbal communications when starting a conversation.
+Clarity of the words employed: It’s advisable to avoid sweeping statements in favor of clearly articulated sentences with well defined purposes. 
+Refrain from jumping to conclusions: A fundamental problem in many conversations is that we overestimate others capacity to understand our written and verbal communications, and we overestimate our own capacity to understand what they’re trying to communicate. 
+Contextual understanding: When analyzing what the other person is trying to communicate, take their context into account, including things like timezone, native language, and personal circumstances. 
+ 
+Respectfulness. We have come together to change the status quo through creating kickass software, to that end being disrespectful can divert the conversation from our set purpose into irrelevant areas.
+ 
+It’s advisable to make an effort to not interrupt a person while they’re speaking. People often overestimate their ability to understand where a sentence will lead to, and when interrupting the other person in the middle of the sentence, they’ll respond without having the full understanding of the question or statement at hand. This applies mostly in the realm of verbal conversation, not written conversations.
+Personal slights and attacks does not foster a good collaborative space, it s wise to avoid them.
+When we are emotionally affected by communications, attempt to take a step backwards and swallow the chill pill. Emotional or aggressive responses can disrupt healthy communications and waste valuable time and energy better deployed to achieve the goals of the discussion. 
+ 
+Eyes on Target.
+Taking time to understand the purpose and expected outcome of any forum, holon, channel or discussion and endeavouring to ensure that our communications relate directly to the purpose of said forum. 
+ 
+Noise Reduction
+Don’t disturb people with unnecessary requests
+Reduce noise on social media 
+
 # Article 11: We are a Dream and a Reality.
 
 Itshappening.gif
