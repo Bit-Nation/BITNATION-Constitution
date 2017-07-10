@@ -164,6 +164,10 @@ We are sovereign. We’re together. We’re the future.
 
 
 Further reading:
+
+Bitnation Whitepaper, Published July 2017:
+https://docs.google.com/document/d/1lnbUKaCzy1F3yrI73bMoIOAqK9h5mwtwuA_1z9G2Cqg/edit
+
 Bitnation Foundational Document, Published July 14 2014 https://docs.google.com/document/d/16HDB9AABa5rTOVFJj_8VLdOxgMguovLLAMviaTkZ1q4/edit
 
 Bitnation Whitepaper, Published October 10 2014
@@ -171,5 +175,7 @@ https://docs.google.com/document/d/1r_VqWrKQw07E06XAtMv_cZnFyBZma4PFTBJpM5GuzbA/
 
 An evolutionary Nomic structure for digital rule making in Bitnation, Published Feburary 7 2016
 https://docs.google.com/document/d/1l00egk-PyNIE4-kHZwFGA-asIB_rsIRwtbMPDZ0JYJ8/edit
+
+
 
 
