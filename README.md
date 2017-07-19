@@ -176,6 +176,9 @@ https://docs.google.com/document/d/1r_VqWrKQw07E06XAtMv_cZnFyBZma4PFTBJpM5GuzbA/
 An evolutionary Nomic structure for digital rule making in Bitnation, Published Feburary 7 2016
 https://docs.google.com/document/d/1l00egk-PyNIE4-kHZwFGA-asIB_rsIRwtbMPDZ0JYJ8/edit
 
+OPSEC Guidelines, Published July 19 2017
+https://docs.google.com/document/d/1E9uVmuW9_zhoStrcvkuK-3kg30ec7Qgj3qG4aK7IAic/edit
+
 
 
 
