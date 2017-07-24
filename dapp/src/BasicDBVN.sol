@@ -32,12 +32,15 @@ contract BasicDBVN is Ownable, HasMemberPool {
     event ProposalAdded(uint indexed proposalID, bytes32 transactionBytecode, string description);
     event ProposalTallied(uint indexed proposalID, uint result, uint quorum, bool active);
 
-    event Voted(uint indexed proposalID, indexed uint voteID, bool indexed inSupport, indexed address voter);
+    event Voted(uint indexed proposalID, uint indexed voteID, bool inSupport, address indexed voter);
 
     event ChangeOfRules(uint minimumQuorum, uint debatingPeriodInMinutes);
     event SettingsChanged(uint maximumGas);
 
     event Deposit(address indexed sender, uint indexed value);
+
+    event ConstitutionChanged(address indexed newConstitution);
+    event TokenChanged(address indexed newToken);
 
     struct Proposal {
         address submitter;
@@ -74,17 +77,28 @@ contract BasicDBVN is Ownable, HasMemberPool {
         assert(initial - msg.gas < maximum);
     }
 
-    function BasicDBVN(uint minimumSharesToPassAVote, uint minutesForDebate, uint initialShares, uint maxGas) {
+    function BasicDBVN(uint minimumSharesToPassAVote, uint minutesForDebate, uint initialShares, uint maxGas, StakeToken stakeToken, Constitution constitutionContract) {
         // We deploy the token representing the stakes of members
-        sharesToken = new StakeToken();
-        sharesToken.addBalance(msg.sender, initialShares);
+        sharesToken = stakeToken;
 
-        constitution = new Constitution();
+        constitution = constitutionContract;
 
         
         minimumQuorum = minimumSharesToPassAVote;
         debatingPeriod = minutesForDebate;
         maximumGas = maxGas;
+    }
+
+    function changeConstitution(Constitution constitutionContract) onlyOwner {
+        constitution = constitutionContract;
+
+        ConstitutionChanged(address(constitution));
+    }
+
+    function changeToken(StakeToken token) onlyOwner {
+        sharesToken = token;
+
+        TokenChanged(address(token));
     }
 
     function changeVotingRules(uint minimumSharesToPassAVote, uint minutesForDebate) onlyOwner {

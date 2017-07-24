@@ -3,7 +3,11 @@ pragma solidity ^0.4.13;
 import "ds-test/test.sol";
 import "./BasicDBVN.sol";
 
-// We only check the new functions, basic ones are already tested by zeppelin
+import "./StakeToken.sol";
+import "./Constitution.sol";
+
+// TODO: test events
+// TODO: test modifiers
 
 
 contract User {
@@ -38,7 +42,15 @@ contract TestBasicDBVNn is DSTest {
 
     // token will be instantiated before each test case
     function setUp() {
-        dbvn = new BasicDBVN(0, 0, 100, 150000);
+        StakeToken token = new StakeToken();
+        Constitution const = new Constitution();
+
+        dbvn = new BasicDBVN(0, 0, 100, 150000, token, const);
+        token.addBalance(address(this), 100);
+
+        token.transferOwnership(address(dbvn));
+        const.transferOwnership(address(dbvn));
+
         member = new User(dbvn);
 
         member.apply();
@@ -53,9 +65,18 @@ contract TestBasicDBVNn is DSTest {
         assert(dbvn.hasMembership(address(this)));
     }
 
-    function test_dbvnShouldOwnContracts() {
-        assert(dbvn.sharesToken().owner() == address(dbvn));
-        assert(dbvn.constitution().owner() == address(dbvn));
+    function test_changeConstitution() {
+        Constitution const = new Constitution();
+        dbvn.changeConstitution(const);
+
+        assert(dbvn.constitution() == const);
+    }
+
+    function test_changeToken() {
+        StakeToken token = new StakeToken();
+        dbvn.changeToken(token);
+
+        assert(dbvn.sharesToken() == token);
     }
 
     function test_changeVotingRules() {
