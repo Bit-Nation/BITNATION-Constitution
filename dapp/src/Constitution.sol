@@ -25,11 +25,11 @@ contract Constitution is Ownable {
     uint repealedAt;
   }
 
-  event EditorAdded(address editor);
-  event EditorRemoved(address editor);
+  event EditorAdded(address indexed editor);
+  event EditorRemoved(address indexed editor);
 
-  event ArticleAdded(uint articleId, address editor);
-  event ArticleRepealed(uint articleId, address editor);
+  event ArticleAdded(uint indexed articleId, address indexed editor);
+  event ArticleRepealed(uint indexed articleId, address indexed editor);
 
   modifier onlyEditor {
     require(isEditor(msg.sender));

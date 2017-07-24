@@ -7,12 +7,12 @@ contract HasMemberPool is Ownable {
     mapping (address => uint) public applierSince;
     mapping (address => uint) public memberSince;
 
-    event NewApplication(address applier);
-    event ApplicationCanceled(address applier);
-    event ApplicationRefused(address applier);
-    event ApplicationAccepted(address applier);
+    event NewApplication(address indexed applier);
+    event ApplicationCanceled(address indexed applier);
+    event ApplicationRefused(address indexed applier);
+    event ApplicationAccepted(address indexed applier);
 
-    event MembershipCanceled(address member);
+    event MembershipCanceled(address indexed member);
 
     modifier onlyMembers {
         require(hasMembership(msg.sender));

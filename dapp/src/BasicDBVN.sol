@@ -29,15 +29,15 @@ contract BasicDBVN is Ownable, HasMemberPool {
 
     Constitution public constitution;
 
-    event ProposalAdded(uint proposalID, bytes32 transactionBytecode, string description);
-    event ProposalTallied(uint proposalID, uint result, uint quorum, bool active);
+    event ProposalAdded(uint indexed proposalID, bytes32 transactionBytecode, string description);
+    event ProposalTallied(uint indexed proposalID, uint result, uint quorum, bool active);
 
-    event Voted(uint proposalID, uint voteID, bool inSupport, address voter);
+    event Voted(uint indexed proposalID, indexed uint voteID, bool indexed inSupport, indexed address voter);
 
     event ChangeOfRules(uint minimumQuorum, uint debatingPeriodInMinutes);
     event SettingsChanged(uint maximumGas);
 
-    event Deposit(address sender, uint value);
+    event Deposit(address indexed sender, uint indexed value);
 
     struct Proposal {
         address submitter;
