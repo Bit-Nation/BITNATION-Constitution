@@ -74,15 +74,17 @@ contract BasicDBVN is Ownable, HasMemberPool {
         assert(initial - msg.gas < maximum);
     }
 
-    function BasicDBVN(uint minimumSharesToPassAVote, uint minutesForDebate, uint initialShares, uint maximumGas) {
+    function BasicDBVN(uint minimumSharesToPassAVote, uint minutesForDebate, uint initialShares, uint maxGas) {
         // We deploy the token representing the stakes of members
         sharesToken = new StakeToken();
         sharesToken.addBalance(msg.sender, initialShares);
 
         constitution = new Constitution();
 
-        changeVotingRules(minimumSharesToPassAVote, minutesForDebate);
-        setSettings(maximumGas);
+        
+        minimumQuorum = minimumSharesToPassAVote;
+        debatingPeriod = minutesForDebate;
+        maximumGas = maxGas;
     }
 
     function changeVotingRules(uint minimumSharesToPassAVote, uint minutesForDebate) onlyOwner {
@@ -134,7 +136,8 @@ contract BasicDBVN is Ownable, HasMemberPool {
     }
 
     function getVote(uint proposalNumber, uint voteId) constant returns (bool inSupport, address voter) {
-        return proposals[proposalNumber].votes[voteId];
+        inSupport = proposals[proposalNumber].votes[voteId].inSupport;
+        voter = proposals[proposalNumber].votes[voteId].voter;
     }
 
     // Gas is limited to avoid reentrancy
