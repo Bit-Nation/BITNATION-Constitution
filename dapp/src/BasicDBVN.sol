@@ -133,7 +133,11 @@ contract BasicDBVN is Ownable, HasMemberPool {
         Voted(proposalNumber, voteID, inFavorOfProposal, msg.sender);
     }
 
-    // That function is marked as `nonReentrant` to avoid reentrancy problems, we also limits the maximum usable gas
+    function getVote(uint proposalNumber, uint voteId) constant returns (bool inSupport, address voter) {
+        return proposals[proposalNumber].votes[voteId];
+    }
+
+    // Gas is limited to avoid reentrancy
     function executeProposal(uint proposalNumber, bytes32 transactionBytecode) onlyMembers max_gas(maximumGas) {
         // First, check a few things
         require(checkProposalCode(proposalNumber, transactionBytecode));
