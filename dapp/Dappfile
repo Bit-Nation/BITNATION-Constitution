@@ -1,6 +1,6 @@
-name            src
-description     A newly-created dapp
-version         0.0.0
+name            DBVN
+description     Basic DBVN for bitnation
+version         1.0.0
 
-author          node
-license         Apache-2.0
+author          Eliott Teissonniere
+license         MIT
