@@ -147,7 +147,7 @@ contract BasicDBVN is Ownable, HasMemberPool {
 
         Proposal p = proposals[proposalNumber];
 
-        require(p.votingDeadline > now);
+        require(p.votingDeadline < now);
         require(!p.executed);
 
         // Time to tally the votes
