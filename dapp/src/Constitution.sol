@@ -1,4 +1,4 @@
-pragma solidity ^0.4.11;
+pragma solidity ^0.4.13;
 
 import "zeppelin/contracts/ownership/Ownable.sol";
 
@@ -9,9 +9,6 @@ import "zeppelin/contracts/ownership/Ownable.sol";
 
 contract Constitution is Ownable {
   mapping (address => bool) public editorIndex;
-
-  // Some meta
-  string public name;
 
   uint public numArticles;
   Article[] public allArticles;
@@ -64,7 +61,8 @@ contract Constitution is Ownable {
   // Editors functions
 
   function addArticle(string articleSummary, string articleReference) onlyEditor returns (uint articleId) {
-    articleId = numArticles++;
+    articleId = allArticles.length++;
+    numArticles = allArticles.length;
 
     allArticles[articleId] = Article({summary: articleSummary, reference: articleReference, addedBy: msg.sender, isValid: true, createdAt: now, repealedAt: 0});
 
