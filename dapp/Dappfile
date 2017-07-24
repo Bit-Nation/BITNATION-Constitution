@@ -1,0 +1,6 @@
+name            src
+description     A newly-created dapp
+version         0.0.0
+
+author          node
+license         Apache-2.0
