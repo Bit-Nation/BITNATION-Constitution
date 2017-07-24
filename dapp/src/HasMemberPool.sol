@@ -27,8 +27,13 @@ contract HasMemberPool is Ownable {
         isMember = memberSince[member] > 0;
     }
 
+    function HasMemberPool() {
+        memberSince[msg.sender] = now;
+    }
+
     function applyForMembership() {
         require(!hasPendingApplication(msg.sender));
+        require(!hasMembership(msg.sender));
 
         applierSince[msg.sender] = now;
 
