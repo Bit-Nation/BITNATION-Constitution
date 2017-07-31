@@ -33,12 +33,12 @@ We are a Dream and a Reality.
 We are Ƀitnation.
 
 
+---------
+
+Our culture and philosophy is inspired by Barlow's writing:
 
 
-But just to calrify, this is all based on Barlow's Philosophy:
-
-
-A Declaration of the Independence of Cyberspace
+*A Declaration of the Independence of Cyberspace
 
 
 by John Perry Barlow
@@ -77,7 +77,7 @@ These increasingly hostile and colonial measures place us in the same position a
 We will create a civilization of the Mind in Cyberspace. May it be more humane and fair than the world your governments have made before.
 
 Davos, Switzerland
-February 8, 1996
+February 8, 1996*
 
 
 
