@@ -203,7 +203,7 @@ by John Perry Barlow
 *We will create a civilization of the Mind in Cyberspace. May it be more humane and fair than the world your governments have made before.*
 
 Davos, Switzerland
-February 8, 1996*
+February 8, 1996
 
 
 
