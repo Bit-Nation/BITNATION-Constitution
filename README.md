@@ -38,43 +38,43 @@ We are Ƀitnation.
 Our culture and philosophy is inspired by Barlow's writing:
 
 
-*A Declaration of the Independence of Cyberspace
+### **A Declaration of the Independence of Cyberspace**
 
 
 by John Perry Barlow
 
 
-Governments of the Industrial World, you weary giants of flesh and steel, I come from Cyberspace, the new home of Mind. On behalf of the future, I ask you of the past to leave us alone. You are not welcome among us. You have no sovereignty where we gather.
+*Governments of the Industrial World, you weary giants of flesh and steel, I come from Cyberspace, the new home of Mind. On behalf of the future, I ask you of the past to leave us alone. You are not welcome among us. You have no sovereignty where we gather.*
 
-We have no elected government, nor are we likely to have one, so I address you with no greater authority than that with which liberty itself always speaks. I declare the global social space we are building to be naturally independent of the tyrannies you seek to impose on us. You have no moral right to rule us nor do you possess any methods of enforcement we have true reason to fear.
+*We have no elected government, nor are we likely to have one, so I address you with no greater authority than that with which liberty itself always speaks. I declare the global social space we are building to be naturally independent of the tyrannies you seek to impose on us. You have no moral right to rule us nor do you possess any methods of enforcement we have true reason to fear.*
 
-Governments derive their just powers from the consent of the governed. You have neither solicited nor received ours. We did not invite you. You do not know us, nor do you know our world. Cyberspace does not lie within your borders. Do not think that you can build it, as though it were a public construction project. You cannot. It is an act of nature and it grows itself through our collective actions.
+*Governments derive their just powers from the consent of the governed. You have neither solicited nor received ours. We did not invite you. You do not know us, nor do you know our world. Cyberspace does not lie within your borders. Do not think that you can build it, as though it were a public construction project. You cannot. It is an act of nature and it grows itself through our collective actions.*
 
-You have not engaged in our great and gathering conversation, nor did you create the wealth of our marketplaces. You do not know our culture, our ethics, or the unwritten codes that already provide our society more order than could be obtained by any of your impositions.
+*You have not engaged in our great and gathering conversation, nor did you create the wealth of our marketplaces. You do not know our culture, our ethics, or the unwritten codes that already provide our society more order than could be obtained by any of your impositions.*
 
-You claim there are problems among us that you need to solve. You use this claim as an excuse to invade our precincts. Many of these problems don't exist. Where there are real conflicts, where there are wrongs, we will identify them and address them by our means. We are forming our own Social Contract. This governance will arise according to the conditions of our world, not yours. Our world is different.
+*You claim there are problems among us that you need to solve. You use this claim as an excuse to invade our precincts. Many of these problems don't exist. Where there are real conflicts, where there are wrongs, we will identify them and address them by our means. We are forming our own Social Contract. This governance will arise according to the conditions of our world, not yours. Our world is different.*
 
-Cyberspace consists of transactions, relationships, and thought itself, arrayed like a standing wave in the web of our communications. Ours is a world that is both everywhere and nowhere, but it is not where bodies live.
+*Cyberspace consists of transactions, relationships, and thought itself, arrayed like a standing wave in the web of our communications. Ours is a world that is both everywhere and nowhere, but it is not where bodies live.*
 
-We are creating a world that all may enter without privilege or prejudice accorded by race, economic power, military force, or station of birth.
+*We are creating a world that all may enter without privilege or prejudice accorded by race, economic power, military force, or station of birth.*
 
-We are creating a world where anyone, anywhere may express his or her beliefs, no matter how singular, without fear of being coerced into silence or conformity.
+*We are creating a world where anyone, anywhere may express his or her beliefs, no matter how singular, without fear of being coerced into silence or conformity.*
 
-Your legal concepts of property, expression, identity, movement, and context do not apply to us. They are all based on matter, and there is no matter here.
+*Your legal concepts of property, expression, identity, movement, and context do not apply to us. They are all based on matter, and there is no matter here.*
 
-Our identities have no bodies, so, unlike you, we cannot obtain order by physical coercion. We believe that from ethics, enlightened self-interest, and the commonweal, our governance will emerge. Our identities may be distributed across many of your jurisdictions. The only law that all our constituent cultures would generally recognize is the Golden Rule. We hope we will be able to build our particular solutions on that basis. But we cannot accept the solutions you are attempting to impose.
+*Our identities have no bodies, so, unlike you, we cannot obtain order by physical coercion. We believe that from ethics, enlightened self-interest, and the commonweal, our governance will emerge. Our identities may be distributed across many of your jurisdictions. The only law that all our constituent cultures would generally recognize is the Golden Rule. We hope we will be able to build our particular solutions on that basis. But we cannot accept the solutions you are attempting to impose.*
 
-In the United States, you have today created a law, the Telecommunications Reform Act, which repudiates your own Constitution and insults the dreams of Jefferson, Washington, Mill, Madison, DeToqueville, and Brandeis. These dreams must now be born anew in us.
+*In the United States, you have today created a law, the Telecommunications Reform Act, which repudiates your own Constitution and insults the dreams of Jefferson, Washington, Mill, Madison, DeToqueville, and Brandeis. These dreams must now be born anew in us.*
 
-You are terrified of your own children, since they are natives in a world where you will always be immigrants. Because you fear them, you entrust your bureaucracies with the parental responsibilities you are too cowardly to confront yourselves. In our world, all the sentiments and expressions of humanity, from the debasing to the angelic, are parts of a seamless whole, the global conversation of bits. We cannot separate the air that chokes from the air upon which wings beat.
+*You are terrified of your own children, since they are natives in a world where you will always be immigrants. Because you fear them, you entrust your bureaucracies with the parental responsibilities you are too cowardly to confront yourselves. In our world, all the sentiments and expressions of humanity, from the debasing to the angelic, are parts of a seamless whole, the global conversation of bits. We cannot separate the air that chokes from the air upon which wings beat.*
 
-In China, Germany, France, Russia, Singapore, Italy and the United States, you are trying to ward off the virus of liberty by erecting guard posts at the frontiers of Cyberspace. These may keep out the contagion for a small time, but they will not work in a world that will soon be blanketed in bit-bearing media.
+*In China, Germany, France, Russia, Singapore, Italy and the United States, you are trying to ward off the virus of liberty by erecting guard posts at the frontiers of Cyberspace. These may keep out the contagion for a small time, but they will not work in a world that will soon be blanketed in bit-bearing media.*
 
-Your increasingly obsolete information industries would perpetuate themselves by proposing laws, in America and elsewhere, that claim to own speech itself throughout the world. These laws would declare ideas to be another industrial product, no more noble than pig iron. In our world, whatever the human mind may create can be reproduced and distributed infinitely at no cost. The global conveyance of thought no longer requires your factories to accomplish.
+*Your increasingly obsolete information industries would perpetuate themselves by proposing laws, in America and elsewhere, that claim to own speech itself throughout the world. These laws would declare ideas to be another industrial product, no more noble than pig iron. In our world, whatever the human mind may create can be reproduced and distributed infinitely at no cost. The global conveyance of thought no longer requires your factories to accomplish.*
 
-These increasingly hostile and colonial measures place us in the same position as those previous lovers of freedom and self-determination who had to reject the authorities of distant, uninformed powers. We must declare our virtual selves immune to your sovereignty, even as we continue to consent to your rule over our bodies. We will spread ourselves across the Planet so that no one can arrest our thoughts.
+*These increasingly hostile and colonial measures place us in the same position as those previous lovers of freedom and self-determination who had to reject the authorities of distant, uninformed powers. We must declare our virtual selves immune to your sovereignty, even as we continue to consent to your rule over our bodies. We will spread ourselves across the Planet so that no one can arrest our thoughts.*
 
-We will create a civilization of the Mind in Cyberspace. May it be more humane and fair than the world your governments have made before.
+*We will create a civilization of the Mind in Cyberspace. May it be more humane and fair than the world your governments have made before.*
 
 Davos, Switzerland
 February 8, 1996*
@@ -173,30 +173,13 @@ We will not sell the data of our citizens or customers to any entity, under any 
 
 Everyone is welcome to join. Everything we do is public.
 
-Article 10.1 Communications Protocol
- 
-Clarity above all. Understanding the challenges of communicating across different timezones, culture and personalities both during written and verbal communications.
- 
-Clarity of purpose: It’s helpful to define the desired outcomes and reasoning behind our written and verbal communications when starting a conversation.
+## Article 10.1 Communications Protocol
 
-Clarity of the words employed: It’s advisable to avoid sweeping statements in favor of clearly articulated sentences with well defined purposes. 
+**Clarity above all.** Understanding the challenges of communicating across different timezones, culture and personalities both during written and verbal communications. It’s advisable to avoid sweeping statements in favor of clearly articulated sentences with well defined purposes. 
 
-Refrain from jumping to conclusions: A fundamental problem in many conversations is that we overestimate others capacity to understand our written and verbal communications, and we overestimate our own capacity to understand what they’re trying to communicate. 
-
-Contextual understanding: When analyzing what the other person is trying to communicate, take their context into account, including things like timezone, native language, and personal circumstances. 
+**Refrain from jumping to conclusions** A fundamental problem in many conversations is that we overestimate others capacity to understand our written and verbal communications, and we overestimate our own capacity to understand what they’re trying to communicate. When analyzing what the other person is trying to communicate, take their context into account, including things like timezone, native language, and personal circumstances. 
  
-Respectfulness. We have come together to change the status quo through creating kickass software, to that end being disrespectful can divert the conversation from our set purpose into irrelevant areas.
- 
-It’s advisable to make an effort to not interrupt a person while they’re speaking. People often overestimate their ability to understand where a sentence will lead to, and when interrupting the other person in the middle of the sentence, they’ll respond without having the full understanding of the question or statement at hand. This applies mostly in the realm of verbal conversation, not written conversations.
-
-Personal slights and attacks does not foster a good collaborative space, it s wise to avoid them. When we are emotionally affected by communications, attempt to take a step backwards and swallow the chill pill. Emotional or aggressive responses can disrupt healthy communications and waste valuable time and energy better deployed to achieve the goals of the discussion. 
- 
-Eyes on Target.
-Taking time to understand the purpose and expected outcome of any forum, holon, channel or discussion and endeavouring to ensure that our communications relate directly to the purpose of said forum. 
- 
-Noise Reduction
-Don’t disturb people with unnecessary requests
-Reduce noise on social media 
+**Respectfulness.** We have come together to change the status quo through creating kickass software, to that end being disrespectful can divert the conversation from our set purpose into irrelevant areas.Personal slights and attacks does not foster a good collaborative space, it s wise to avoid them. When we are emotionally affected by communications, attempt to take a step backwards and swallow the chill pill. Emotional or aggressive responses can disrupt healthy communications and waste valuable time and energy better deployed to achieve the goals of the discussion. 
 
 # Article 11: We are a Dream and a Reality.
 
@@ -212,19 +195,16 @@ We are sovereign. We’re together. We’re the future.
 
 Further reading:
 
-Bitnation Whitepaper, Published July 2017:
-https://docs.google.com/document/d/1lnbUKaCzy1F3yrI73bMoIOAqK9h5mwtwuA_1z9G2Cqg/edit
+* [Pangea Jurisdiction Whitepaper](https://docs.google.com/document/d/1lnbUKaCzy1F3yrI73bMoIOAqK9h5mwtwuA_1z9G2Cqg/edit), Published July 2017:
 
-Bitnation Foundational Document, Published July 14 2014 https://docs.google.com/document/d/16HDB9AABa5rTOVFJj_8VLdOxgMguovLLAMviaTkZ1q4/edit
+* [An evolutionary Nomic structure for digital rule making in Bitnation](https://docs.google.com/document/d/1l00egk-PyNIE4-kHZwFGA-asIB_rsIRwtbMPDZ0JYJ8/edit), Published Feburary 7 2016
 
-Bitnation Whitepaper, Published October 10 2014
-https://docs.google.com/document/d/1r_VqWrKQw07E06XAtMv_cZnFyBZma4PFTBJpM5GuzbA/edit
+* [Bitnation Whitepaper](https://docs.google.com/document/d/1r_VqWrKQw07E06XAtMv_cZnFyBZma4PFTBJpM5GuzbA/edit), Published October 10 2014
 
-An evolutionary Nomic structure for digital rule making in Bitnation, Published Feburary 7 2016
-https://docs.google.com/document/d/1l00egk-PyNIE4-kHZwFGA-asIB_rsIRwtbMPDZ0JYJ8/edit
+* [Bitnation Foundational Document](https://docs.google.com/document/d/16HDB9AABa5rTOVFJj_8VLdOxgMguovLLAMviaTkZ1q4/edit), Published July 14 2014 
 
-OPSEC Guidelines, Published July 19 2017
-https://docs.google.com/document/d/1E9uVmuW9_zhoStrcvkuK-3kg30ec7Qgj3qG4aK7IAic/edit
+* [OPSEC Guidelines](https://docs.google.com/document/d/1E9uVmuW9_zhoStrcvkuK-3kg30ec7Qgj3qG4aK7IAic/edit), Published July 19 2017
+
 
 
 
