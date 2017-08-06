@@ -142,7 +142,7 @@ We do not judge or select based on the colour of your skin, ethnicity, religion,
 
 # Article 8: We are Polity and Entity.
    
-We have become aware of our political autonomy. We’re no longer willing to be oppressed by the coercive nation-state oligopoly. We live in Cyberspace, and we work together, to achieve freedom and independence. 
+We have become aware of our political autonomy. We are no longer willing to be oppressed by the coercive nation-state oligopoly. We live in Cyberspace, and we work together, to achieve freedom and independence. 
 
 Self-Determination in international law is so fundamental that not even nation-states can deviate from it; it is the raison d’etre – the reason for existence – and without this principle, there is no will, thus there is no ‘nation’. BITNATION members have that will, and we are indeed exercising self-determination. See: The Principle of Equal Rights and Self-determination of Peoples & Vienna Convention on the Law of Treaties 1969, Preamble & Art 53.
 
@@ -157,6 +157,9 @@ We will not sell the data of our citizens or customers to any entity, under any 
 # Article 10: We are Openness and Transparency.
 
 Everyone is welcome to join. Everything we do is public.
+
+All our code, and materials are open source (under the MIT Liscense), and are open for public review and audit on GitHub. 
+All our work is publicly visible on our Slack channel and on our Trello board. Anyone is welcome to join and start participating in building the DBVN ecosystem. 
 
 ## Article 10.1 Communications Protocol
 
