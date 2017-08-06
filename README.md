@@ -112,7 +112,13 @@ Administrative entities, such as for-profit or nonprofit entities in different N
 
 # Article 3: We are a Future for Our World and Humanity.
 
-We’ll prevent eternal bloodshed through empowering people to compete through offering better governance services, rather than through imposing a one-fit-all governance model through the use of force. We’re creating a precedent for a beautiful universe of millions of entities, one for each preference and desire.
+We will prevent eternal bloodshed through empowering people to compete through offering better governance services, rather than through imposing a one-fit-all governance model through the use of force. We are creating a precedent for a beautiful universe of millions of entities, one for each preference and desire.
+
+State Sovereignty is no longer compatible with our ever more interconnected lives. Governance 1.0 is more often than not the source of grievances, conflicts and war. Increasingly the Nation State oligopoly represents a global geographical apartheid. Ethics aside, State Sovereignty is also impractical. It both fails to adequately address our local needs and our global challenges.  So far the only alternative to State Sovereignty that has been actively explored is multilateral governance, where Nation States pool their sovereignty to minimise competition through institutions such as the United Nations and European Union.  But this model reduces rather than enhances Citizen sovereignty, and therefore the choices they can make about the governance services they receive.
+
+To outcompete Westphalian sovereignty we need to provide a credible alternative to the nation state’s core function - its raison d’etre -  the provision of Security and Jurisdiction. The only way to outcompete nation states is by providing better, more secure, faster, cheaper and peer-to-peer alternatives for these services. In other words, the global Westphalian oligopoly needs competition from decentralised, borderless and voluntary (opt-in) governance services. Through this process the nation state will face death by irrelevance. 
+
+Thus BITNATIONs and Pangea’s Raison D'etre is Jurisdiction as a Service (JaaS). Decentralised arbitration paves the way for humanity to reclaim personal sovereignty and return to peer-to-peer transactions. Pangea increases individual autonomy and enhance collective governance service delivery systems by leveraging existing decentralized encryption tools and technologies.
 
 # Article 4: We are Sentinels, Universal and Inalienable.
 
