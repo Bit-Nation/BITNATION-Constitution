@@ -92,16 +92,6 @@ Each citizen is subject to the reputation system, which serves as an incentive f
 
 We accept homo sapiens, as well as artificial intelligence (AI) agents as citizens.
 
-## 2.4 Laws
-
-We practice a Polylegal system, meaning people are free to choose the code of law of their preference, whether that’s Common Law, Sharia Law, Civil Law, Pashtunwali, or whatever it may be. People are also free to create new individual laws, or new codes of law. 
-
-Laws can be refereed to, or coded into agreements.
-
-Laws are subject to reputation as well, and people reviewing law are equally subject to reputation of being good or bad at reviewing laws.
-
-All laws compete on a free market, and people can choose which exact law is better suited for each individual agreement.
-
 ## 2.5 The Archipelago
 
 The Archipelago is a loose federation of different voluntary nations, allies, embassies, ambassadors who pledge to assist each other when possible, and desirable. 
@@ -121,6 +111,16 @@ In our world, problems are mere obstacles, interesting challenges to be solved t
 # Article 6: We are Rights and Freedoms.
 
 We honour the Non-Aggression Principe (NAP) moral framework. We stand unified against any and all forms of coercion, whether it’s through violence, or the implied threat of violence. We’re building a world based on voluntary agreements between consenting entities. 
+
+## 6.1 Laws
+
+- We practice a *Polylegal Law*, meaning people are free to choose the code of law of their preference, whether that’s Common Law, Sharia Law, Civil Law, Pashtunwali, or whatever it may be. People are also free to create new individual laws, or new codes of law. 
+
+- Laws can be refereed to, or coded into agreements.
+
+- Laws are subject to reputation, and people reviewing law are equally subject to reputation of being good or bad at reviewing laws.
+
+- All laws compete on a free market, and people can choose which specific law is better suited for each individual agreement.
 
 # Article 7: We are Tolerant and Accepting.
 
