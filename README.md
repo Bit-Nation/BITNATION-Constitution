@@ -70,8 +70,8 @@ The type of *entities* that exist are:
 - A DBVN 
 - A Holon
 - A Genesis Holon
-- Core
-- A Fractal
+- Core Contributor
+- A Fractal Holon
 - Ambassadors
 - An Embassy or Consulate
 - A Port 
@@ -88,10 +88,10 @@ Holons are parts within the DBVN, with various degree of autonomy, at various ti
 ## 2.4 A Genesis Holon
 The first Holon that forms the starting point of a DBVN - a "chain" of human operated holons, in the same way a genesis block in a cryptocurrency births the blockchain. Although membership of the Genesis Holon is subject to change, change is designed to have an inherent slowness worked into it, in order to provide long-term stability and continuity. Members of the Genesis Holon are the ‘Guardians of the DBVN’, essentially. Often synonymous with Core. 
 
-## 2.5 A Core 
+## 2.5 Core Contributors
 Citizens who contribute significantly to core functions of the DBVN (like tech, community, finance, etc) at a certain point in time. Typically, the contribution is reflected in the stake of the DBVN multisignature, meaning people who are more intensively involved have a greater say in descisions concerning core infrastructure. 
 
-## 2.6 A Fractal
+## 2.6 A Fractal Holon
 A person or a small group of person working on a specific project in some degree of proximity to a DBVN or a holon.
 
 ## 2.7 Ambassadors
