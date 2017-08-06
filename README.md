@@ -62,7 +62,7 @@ An entity providing opt-in core governance services (rule of law, security) to i
 
 # Article 2: We are the Birth of a New Virtual Nation.
 
-We use a holocratic governance model, comprised of different entities with various degrees of autonomy: Core, Holons, Citizens, Laws, The Archipelago:
+BITNATION use a model of smart contract based *Liquid Holacracy* based on the philosophy of [Holon](https://www.wikiwand.com/en/Holon_(philosophy)), which means *"something that is simultaneously a whole and a part"*, and mimics the way swarm like systems emerge in nature. BITNATION has upgraded the initial implementation of Holocracy into *Liquid* Holocracy, to increase the speed and autonomy of descision making processes, and the agency of individuals and holons.
 
 ## 2.1 Core
 
