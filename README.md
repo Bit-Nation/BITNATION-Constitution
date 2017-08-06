@@ -156,7 +156,9 @@ We honour the Non-Aggression Principe (NAP) moral framework. We stand unified ag
 
 # Article 7: We are Tolerant and Accepting.
 
-We do not judge or select based on the colour of your skin, ethnicity, religion, country of origin, sexual preference, or degree of post-human. In our DBVN, everyone who wishes to make the world a better place through furthering voluntary agreements, is welcome to be a part of our Nation.
+We respect and accept each others many and various identities, including our places of origin, ethnicity, religion, cultures, political and economic convictions, forms of expression and ways of being human or post human, even if we may not wish to have those identities ourselves.  In our DBVN, everyone who wishes to make the world a better place through furthering voluntary agreements, is welcome to be a part of our Nation. Yet tolerance is not a concession or indulgence, and tolerance cannot be used to justify violations of the universal and inalienable state of personal sovereignty, nor failure to uphold the agreements we make with one another.
+
+Although we agree to disagree, and to tolerate and accept those we disagree with, we commit to honouring any solemn promises we make with one another despite our differences. We know that Citizens will disagree, and we embrace disagreement, but not the coercive settlement of disputes. When disputes arise, we believe in voluntary peer-to-peer arbitration and the creation of incentives for the resolution of disagreements and the honouring of our promises.
 
 # Article 8: We are Polity and Entity.
    
@@ -170,16 +172,8 @@ BITNATION Pangea is the world’s first blockchain powered virtual nation, and a
 
 # Article 9: We are Privacy and Security.
 
-Once the Pangea Jurisdiction is fully enabled:
- 
- - There will be no central points of failure.
- - Communication is end-to-end encrypted.
- - It's resistant against emergent threath such as quantum computing.
- - We do not store any Citizens data or keys on any centralized server. Citizens have 100% control over their own data, keys, records, identity, contracts and communications.
- - Identities are pseudo-anonymous, no biometric data will ever be required or collected.
- 
- This is what we strive for.
- 
+We will not sell the data of our citizens or customers to any entity, under any circumstances. We strive for client side technology, encryption, and pseudo anonymity. 
+
 # Article 10: We are Openness and Transparency.
 
 Everyone is welcome to join. Everything we do is public.
