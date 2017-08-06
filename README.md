@@ -179,7 +179,7 @@ All our work is publicly visible on our Slack channel and on our Trello board. A
 
 # Article 11: We are a Dream and a Reality.
 
-Itshappening.gif
+Some might think of us as radical outliers, as extremists on the fringes of society, a bunch of weirdos. Think again. We come from all ages and social strata of society. We are students, teachers, doctors, engineers, lawyers, entrepreneurs and even politicians and diplomats. We are your neighbours, your co-workers, your drinking buddies. We are what makes up the fabric of the society you live in. We are one of you, but one that has become aware of its political autonomy. And we work, every single day, to build a better world. Piece by piece, we build our infrastructure, one line of code, one meetup, one piece of documentation at the time. Together, we are building the toolset for peaceful self-sovereignty.
 
 # Article 12: We are Ƀitnation.
 
