@@ -50,6 +50,16 @@ A community of likeminded individuals (citizens), working towards a common goal,
 ## 1.2 Governance Services
 An entity providing opt-in core governance services (rule of law, security) to its citizens, and to non-citizen customers.
 
+## 1.3 Definition of a Decentralized Borderless Voluntary Nation
+
+- **Decentralized:** Decentralization is the process of redistributing or dispersing functions, powers, people or things away from a central location or authority. In the realm of a DBVN, decentralization translates into both technological and human decentralization - through striving for P2P (Peer-to-Peer) technology, modular interfaces, API (Applications Programming Interface) layers, and forkable (duplicated) code. This means that every user can become its own node and transform the platform to their own liking. Decentralization also benefits from not having any single point of failure in the event of an attack. Human nodes should be able to reorganize themselves in resilient nodes no matter what part of the network comes under attack - be it human or other technological factors. In practice, this means that various clusters, regional or otherwise, are entirely autonomous.
+
+- **Borderless:** DBVN’s do not limit their services to any specific geographical area, ethnicity or other categories of populations. They have no borders or ports of entry: no land boundaries, airports, coastlines, or seaports. DBVN’s provide services to all areas, regardless of where it is located. Some would claim that a DBVN is ‘virtual’ by design. Although virtual-by-design is an intuitive assumption, it does not have to be based entirely in the virtual world, nor its services.
+
+- **Voluntary:** DBVN’s do not use force, fraud, or coercion, nor subject their citizens to involuntary servitude, peonage, debt bondage, or slavery. Due to the fact that DBVN’s are voluntary in nature, they are inherently free of persecution, intimidation, reprisals, and other forms of systematic violence. DBVN’s compete in a free market where customers, the “citizens” of the platform, voluntarily choose which DBVN’s they want to use-- including the option of using several DBVN’s, or none at all, or if they so choose to create their own DBVN.
+
+- **Nation:** A nation is a large group of people who share a common language, culture, ethnicity, descent, or history. In the case of DBVN’s it is likely that people would be as connected through mutual interests and goals as they would more traditional commonalities such as culture and language. A nation is a voluntary formation rather than a governing entity (i.e. a state). We provide the tools for governance but do not impose them, nor do we impose any specific code of law or regulations.”
+
 # Article 2: We are the Birth of a New Virtual Nation.
 
 We use a holocratic governance model, comprised of different entities with various degrees of autonomy: Core, Holons, Citizens, Laws, The Archipelago:
