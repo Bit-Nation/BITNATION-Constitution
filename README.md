@@ -50,7 +50,7 @@ A community of likeminded individuals (citizens), working towards a common goal,
 ## 1.2 Governance Services
 An entity providing opt-in core governance services (rule of law, security) to its citizens, and to non-citizen customers.
 
-## 1.3 Definition of a Decentralized Borderless Voluntary Nation
+## 1.3 Definition of a Decentralized Borderless Voluntary Nation (DBVN)
 
 - **Decentralized:** Decentralization is the process of redistributing or dispersing functions, powers, people or things away from a central location or authority. In the realm of a DBVN, decentralization translates into both technological and human decentralization - through striving for P2P (Peer-to-Peer) technology, modular interfaces, API (Applications Programming Interface) layers, and forkable (duplicated) code. This means that every user can become its own node and transform the platform to their own liking. Decentralization also benefits from not having any single point of failure in the event of an attack. Human nodes should be able to reorganize themselves in resilient nodes no matter what part of the network comes under attack - be it human or other technological factors. In practice, this means that various clusters, regional or otherwise, are entirely autonomous.
 
@@ -64,37 +64,51 @@ An entity providing opt-in core governance services (rule of law, security) to i
 
 BITNATION use a model of smart contract based *Liquid Holacracy* based on the philosophy of [Holon](https://www.wikiwand.com/en/Holon_(philosophy)), which means *"something that is simultaneously a whole and a part"*, and mimics the way swarm like systems emerge in nature. BITNATION has upgraded the initial implementation of Holocracy into *Liquid* Holocracy, to increase the speed and autonomy of descision making processes, and the agency of individuals and holons.
 
-## 2.1 Core
+The type of *entities* that exist are:
 
-The core is the lead of the holocracy, a small group of dedicated citizens, who are able to set the general framework, and make swift decisions. Generally the founders and/ or core developers.
+- A Citizen
+- A DBVN 
+- A Holon
+- A Genesis Holon
+- Core
+- A Fractal
+- Ambassadors
+- An Embassy or Consulate
+- A Port 
 
-A new core can be created at anytime, and the holons and citizens can choose to follow the new core. 
+## 2.1 A Citizen
+A person (human or AI) who subscribe to the vision, philosophy, rules and goals set out by the DBVN (typically, the constitution of a DBVN) and subscribe to join as a Citizen, to enjoy the services the DBVN offers. 
 
-The responsibility of core is to manage the key infrastructure, including funds, wallets, domain names, general political positioning, core development priorities, etc.
+## 2.2 A DBVN 
+A Decentralized Borderless Voluntary Nation (see description under article 1.3)
 
-Core is the genesis holon of a chain of human operated holons in the DBVN, in the same way a genesis block in a cryptocurrency births the blockchain. 
-
-## 2.2 Holons
-
+## 2.3 A Holon
 Holons are parts within the DBVN, with various degree of autonomy, at various times. Any citizen can start their own holon, for profit or non-for profit, without any central approval. Citizens suggest Holons, and others can choose to finance them or work on them. The holons benefits from the DBVN resources and infrastructure. 
 
-## 2.3 Citizens
+## 2.4 A Genesis Holon
+The first Holon that forms the starting point of a DBVN - a "chain" of human operated holons, in the same way a genesis block in a cryptocurrency births the blockchain. Although membership of the Genesis Holon is subject to change, change is designed to have an inherent slowness worked into it, in order to provide long-term stability and continuity. Members of the Genesis Holon are the ‘Guardians of the DBVN’, essentially. Often synonymous with Core. 
 
-Citizens opt in or out on a voluntary basis, and can be part of several nations, or none at all. 
+## 2.5 A Core 
+Citizens who contribute significantly to core functions of the DBVN (like tech, community, finance, etc) at a certain point in time. Typically, the contribution is reflected in the stake of the DBVN multisignature, meaning people who are more intensively involved have a greater say in descisions concerning core infrastructure. 
 
-Citizens should contribute in some way, either through work, computing power or in other ways, to the nation. 
+## 2.6 A Fractal
+A person or a small group of person working on a specific project in some degree of proximity to a DBVN or a holon.
 
-Citizens should have read the constitution, and signed off on the principles.
+## 2.7 Ambassadors
+The Ambassador and Embassy networks were conceived as analogue versions of Pangea. A real world network of people and places where digital nomads can get advice, peer-to-peer assistance, meet-up and hang out. There are three types of Bitnation representatives:
 
-Being a citizen means receiving dividend from the profit of the nation, and being part in building the nation. You do not have to be a citizen to use BITNATION’s services.
+ -  Diplomatic Ambassadors: Official Bitnation positions to perform duties as Officers working as our interface with existing Nations, as well as new virtual Nations. 
+ -  Diplomatic Consuls: Also an Official position. A support to both our Ambassadors and to Nation State embassies and consulates engaging with our Citizens in the location of our Embassies and Consulates. 
+ -  Goodwill Ambassadors: Informal but officially recognised representative of Bitnation during events (such as DEVCONs). Promotes and supports Bitnation and our services and provides a point of contact for our Citizens. 
 
-Each citizen is subject to the reputation system, which serves as an incentive for good behaviour.
+## 2.8 An Embassy or Consulate
+Embassies and Consulates are where Citizens share their space, whether it’s an office, coffee shop or your home, and open it up for fellow citizens, hackers and crypto aficionados around the world! There are two types of places, Embassies and Consulates.
 
-We accept homo sapiens, as well as artificial intelligence (AI) agents as citizens.
+ -  Embassy  A place where you can both live, and work (and naturally, meet).
+ -  Consulate A place where you can work – like a shared office space or cafe, for instance – or maybe organise a meetup or a hangout.
 
-## 2.5 The Archipelago
-
-The Archipelago is a loose federation of different voluntary nations, allies, embassies, ambassadors who pledge to assist each other when possible, and desirable. 
+## 2.9 A Port 
+Administrative entities, such as for-profit or nonprofit entities in different Nation State jurisdictions designed to interact with old world legacy systems such as banks and governments on behalf of BITNATION or other DBVNs
 
 # Article 3: We are a Future for Our World and Humanity.
 
