@@ -138,6 +138,8 @@ Thus one Citizen may gain power over another: but not absolute or arbitrary powe
 
 In our world, problems are mere obstacles, interesting challenges to be solved through the ingenuity of humans and machines working together. We do not dwell on negativity, rather we work together to find mutually beneficial creative solutions, to be radically innovative.
 
+Any Citizen can submit a proposal for a local or global governance initiative, fund any proposal of their liking, and debate and vote on any and all proposals. We believe that if you open the floodgates, the wealth of creativity that comes from participation, from experts and enthusiasts alike, will results in ideas an initiative never before imaginable to solve some of the worlds greatest problems, and will provide participants with the motivation and agency to carry them out. 
+
 # Article 6: We are Rights and Freedoms.
 
 We honour the Non-Aggression Principe (NAP) moral framework. We stand unified against any and all forms of coercion, whether it’s through violence, or the implied threat of violence. We’re building a world based on voluntary agreements between consenting entities. 
