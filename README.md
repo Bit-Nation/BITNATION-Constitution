@@ -144,6 +144,12 @@ We do not judge or select based on the colour of your skin, ethnicity, religion,
    
 We have become aware of our political autonomy. We’re no longer willing to be oppressed by the coercive nation-state oligopoly. We live in Cyberspace, and we work together, to achieve freedom and independence. 
 
+Self-Determination in international law is so fundamental that not even nation-states can deviate from it; it is the raison d’etre – the reason for existence – and without this principle, there is no will, thus there is no ‘nation’. BITNATION members have that will, and we are indeed exercising self-determination. See: The Principle of Equal Rights and Self-determination of Peoples & Vienna Convention on the Law of Treaties 1969, Preamble & Art 53.
+
+Free will, or the freedom to choose, is the basis to form any variation of social association. Just as a contract expresses the will of an Individual, a Compact or Charter expresses the collective will of a People, or a Nation, and even a State. BITNATION is a Nation.
+
+BITNATION Pangea is the world’s first blockchain powered virtual nation, and as such, we too are formalizing a social compact as part of the process of exercising self-determination. Our Ambassador Network, currently Goodwill in nature, must transition to authorized Diplomatic and Community Support positions to foster peaceful relations with other Nations, as well as providing more tangible services to the BITNATION community.
+
 # Article 9: We are Privacy and Security.
 
 We will not sell the data of our citizens or customers to any entity, under any circumstances. We strive for client side technology, encryption, and pseudo anonymity. 
