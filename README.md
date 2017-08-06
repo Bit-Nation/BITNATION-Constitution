@@ -124,13 +124,19 @@ Thus BITNATIONs and Pangea’s Raison D'etre is Jurisdiction as a Service (JaaS)
 
 # Article 4: We are Sentinels, Universal and Inalienable.
 
-The imaginary lines in the sand, called borders, belongs to a world of the past, a world of oppressive geographical apartheid. Where we live, there are no nation state borders, only universal freedom of movement.
+## 4.1 We are all born sovereign Citizens of the world, and our personal sovereignty is universal and inalienable. 
+
+Although we refuse to allow any government or individual to take our sovereignty without our consent, nor accept any universal agreement amongst ourselves on how we should, or should not, live our lives, we still seek cooperation with one another. Because we cannot provide for ourselves alone sufficient for a fulfilled and dignified life, we cooperate with others to supply that which we lack or desire when living singly and solely by ourselves. Yet we all remain sovereign, and if our cooperation with others ceases to fulfill that which we lack or desire, we will choose to exit our cooperation and expect no prejudice nor constraint. 
+
+## 4.2 We must all be restrained from invading others personal sovereignty, and from harming one another, to ensure the peace and preservation of all humankind. 
+
+All Citizens are sentinels of our personal sovereignty, and everyone can defend their sovereignty to such a degree as may hinder violation and thereby preserve freedom and restrain tyranny. And if any one of us may defend against another for violating our personal sovereignty, every one of us may also do so: for in a state of universal sovereignty, where there is no jurisdiction of one over another, what anyone may do in protection of their sovereignty, every Citizen must also be free to do.
+
+Thus one Citizen may gain power over another: but not absolute or arbitrary power, and only to protect themselves against intrusions on their sovereignty, so far as calm reason and conscience dictate, and proportionate to the transgression - which is precisely as much as may cause restraint and reparation of loss.  These two are the only reasons when we may do harm to another, which is that we call defence. In transgressing the sovereignty of individuals, the coercer declares that they live by another canon than that of reason and universal, inalienable sovereignty and mutual security, and so becomes a danger to Citizens.  And in that case, and upon these grounds alone, every Citizen is free to defend against those who transgress their sovereignty and seek reparations for any losses they may suffer.
 
 # Article 5: We are Creativity and Visionary.
 
 In our world, problems are mere obstacles, interesting challenges to be solved through the ingenuity of humans and machines working together. We do not dwell on negativity, rather we work together to find mutually beneficial creative solutions, to be radically innovative.
-
-Any Citizen can submit a proposal for a local or global governance initiative, fund any proposal of their liking, and debate and vote on any and all proposals. We believe that if you open the floodgates, the wealth of creativity that comes from participation, from experts and enthusiasts alike, will results in ideas an initiative never before imaginable to solve some of the worlds greatest problems, and will provide participants with the motivation and agency to carry them out. 
 
 # Article 6: We are Rights and Freedoms.
 
@@ -162,15 +168,7 @@ BITNATION Pangea is the world’s first blockchain powered virtual nation, and a
 
 # Article 9: We are Privacy and Security.
 
-Once the Pangea Jurisdiction is fully enabled:
-
-- There will be no central points of failure.
-- Communication is end-to-end encrypted.
-- It's resistant against emergent threath such as quantum computing.
-- We do not store any Citizens data or keys on any centralized server. Citizens have 100% control over their own data, keys, records, identity, contracts and communications.
-- Identities are pseudo-anonymous, no biometric data will ever be required or collected.
-
-This is what we strive for.
+We will not sell the data of our citizens or customers to any entity, under any circumstances. We strive for client side technology, encryption, and pseudo anonymity. 
 
 # Article 10: We are Openness and Transparency.
 
