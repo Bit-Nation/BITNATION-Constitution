@@ -174,6 +174,16 @@ BITNATION Pangea is the world’s first blockchain powered virtual nation, and a
 
 We will not sell the data of our citizens or customers to any entity, under any circumstances. We strive for client side technology, encryption, and pseudo anonymity. 
 
+Once the Pangea Jurisdiction is fully enabled:
+
+- There will be no central points of failure.
+- Communication is end-to-end encrypted.
+- It's resistant against emergent threath such as quantum computing.
+- We do not store any Citizens data or keys on any centralized server. Citizens have 100% control over their own data, keys, records, identity, contracts and communications.
+- Identities are pseudo-anonymous, no biometric data will ever be required or collected.
+
+This is what we strive for.
+
 # Article 10: We are Openness and Transparency.
 
 Everyone is welcome to join. Everything we do is public.
