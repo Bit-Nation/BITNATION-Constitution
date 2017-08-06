@@ -1,10 +1,9 @@
 # BITNATION-Constitution
 The constitution is meant to be a general framework that grows organically over time through contributions from citizens.
-Note: This document is what constitutes this nation. For a minor variation, please see the READMEUS.md file.
 
 This poem was found on the BITNATION forum a few weeks after BITNATION was created. It was posted anonymously. A few minor revisions have been made from the original poem, which we've integrated as the framework for our constitution.
 
-These 10 lines (each corresponding to an article) were preserved on the Ethereum blockchain during the creation of our Decentralized Borderless Voluntary Nation (DBVN). The articles are intentionally broad because they’ll live forever on the blockchain. They can’t be modified. However, we can continuously update the interpretation of what the articles mean, and how to implement them. To contribute to the meaning of the article, go to this GitHub repo, and open an issue, or do a pull request.
+These 10 lines (each corresponding to an article) were preserved on the Ethereum blockchain during the creation of our Decentralized Borderless Voluntary Nation (DBVN). The articles are intentionally broad because they’ll live forever on the blockchain. However, we can continuously update the interpretation of what the articles mean, and how to implement them. To contribute to the meaning of the article, go to this GitHub repository, and open an issue, or do a pull request.
 
 ---------
 
@@ -41,7 +40,7 @@ We are Ƀitnation.
 
 # Article 1: We are Ƀitnation.
 
-We’re the world’s first Decentralized Borderless Virtual Nation (DBVN), a Blockchain Jurisdiction.
+We’re the world’s first Decentralized Borderless Voluntary Nation (DBVN), a Blockchain Jurisdiction.
 
 We define a nation the following way:
 
@@ -95,7 +94,7 @@ All laws compete on a free market, and people can choose which exact law is bett
 
 ## 2.5 The Archipelago
 
-The Archipelago is a loose federation of different virtual nations, allies, embassies, ambassadors who pledge to assist each other when possible, and desirable. 
+The Archipelago is a loose federation of different voluntary nations, allies, embassies, ambassadors who pledge to assist each other when possible, and desirable. 
 
 # Article 3: We are a Future for Our World and Humanity.
 
