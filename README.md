@@ -3,7 +3,9 @@ The constitution is meant to be a general framework that grows organically over 
 
 This poem was found on the BITNATION forum a few weeks after BITNATION was created. It was posted anonymously. A few minor revisions have been made from the original poem, which we've integrated as the framework for our constitution.
 
-These 10 lines (each corresponding to an article) were preserved on the Ethereum blockchain during the creation of our Decentralized Borderless Voluntary Nation (DBVN). The articles are intentionally broad because they’ll live forever on the blockchain. However, we can continuously update the interpretation of what the articles mean, and how to implement them. To contribute to the meaning of the article, go to this GitHub repository, and open an issue, or do a pull request.
+These 10 lines (each corresponding to an article) were preserved on the Ethereum blockchain during the creation of our Decentralized Borderless Voluntary Nation (DBVN). The articles are intentionally broad because they’ll live forever on the blockchain. However, we can continuously update the interpretation of what the articles mean, and how to implement them. 
+
+To contribute to the content of one of the articles, open an issue, or do a pull request.
 
 ---------
 
