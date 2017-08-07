@@ -65,7 +65,7 @@ Cooperative arrangements to ensure our peace and preservation, such as mutual se
 
 # Article 2: We are the Birth of a New Virtual Nation.
 
-BITNATION uses a system of governance we call *Liquid Holacracy*, based on the philosophy of Arthur Koestler's (https://www.wikiwand.com/en/Holon_(philosophy)): "holon means *"something that is simultaneously a whole and a part"*, and mimics the way swarm like systems emerge in nature. BITNATION has upgraded the initial implementation of Holacracy into *Liquid* Holacracy, to increase the speed and autonomy of decision making processes, and the agency of individuals and holons.
+BITNATION uses a system of governance we call *Liquid Holacracy*, based on the philosophy outlined in Arthur Koestler's *The Ghost in the Machine* (https://www.wikiwand.com/en/Holon_(philosophy)): "holon means *"something that is simultaneously a whole and a part"*, and mimics the way swarm like systems emerge in nature. BITNATION has upgraded the initial implementation of Holacracy into *Liquid* Holacracy, to increase the speed and autonomy of decision making processes, and the agency of individuals and holons.
 
  BITNATION's governance system applies to individuals and entities:
 
