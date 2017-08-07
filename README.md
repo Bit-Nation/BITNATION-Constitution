@@ -69,7 +69,7 @@ BITNATION uses a system of governance we call *Liquid Holacracy*, based on the p
 
  BITNATION's governance system applies to individuals and entities:
 
-- THe Citizen
+- The Citizen
 - The Decentralised Borderless Voluntary Nation (DBVN) 
 - The Holon
 - The Genesis Holon
@@ -104,7 +104,7 @@ The Ambassador and Embassy networks were conceived as analogue versions of Pange
  -  Diplomatic Consuls: Also an Official position. A support to both our Ambassadors and to Nation State embassies and consulates engaging with our Citizens in the location of our Embassies and Consulates. 
  -  Goodwill Ambassadors: Informal but officially recognised representative of BITNATION during events (such as DEVCONs). Promotes and supports BITNATION and our services and provides a point of contact for our Citizens. 
 
-## 2.8 An Embassy or Consulate
+## 2.8 Embassy or Consulate
 Embassies and Consulates are where Citizens share their space, whether it’s an office, coffee shop or your home, and open it up for fellow citizens, hackers and crypto aficionados around the world! There are two types of places, Embassies and Consulates.
 
  -  Embassy  A place where you can both live, and work (and naturally, meet).
@@ -125,11 +125,11 @@ BINATION's, and our software Pangea’s, Raison D'etre is Jurisdiction as a Serv
 
 # Article 4: We are Sentinels, Universal and Inalienable.
 
-## 4.1 We are all born sovereign Citizens of the world, and our personal sovereignty is universal and inalienable. 
+## 4.1 We are All Born Sovereign Citizens of the World, and our Personal Sovereignty is Universal and Inalienable. 
 
 Although we refuse to allow any government or individual to take our sovereignty without our consent, nor accept any universal agreement amongst ourselves on how we should, or should not, live our lives, we still seek cooperation with one another. Because we cannot provide for ourselves alone sufficient for a fulfilled and dignified life, we cooperate with others to supply that which we lack or desire when living singly and solely by ourselves. Yet we all remain sovereign, and if our cooperation with others ceases to fulfill that which we lack or desire, we will choose to exit our cooperation and expect no prejudice nor constraint. 
 
-## 4.2 We must all be restrained from invading others personal sovereignty, and from harming one another, to ensure the peace and preservation of all humankind. 
+## 4.2 We Must All be Restrained from Invading Others Personal Sovereignty, and From Harming One Another, to Ensure the Peace and Preservation of All Humankind. 
 
 All Citizens are sentinels of our personal sovereignty, and everyone can defend their sovereignty to such a degree as may hinder violation and thereby preserve freedom and restrain tyranny. And if any one of us may defend against another for violating our personal sovereignty, every one of us may also do so: for in a state of universal sovereignty, where there is no jurisdiction of one over another, what anyone may do in protection of their sovereignty, every Citizen must also be free to do.
 
