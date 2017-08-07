@@ -143,10 +143,15 @@ Any Citizen can submit a proposal for a local or global governance initiative, f
 
 # Article 6: We are Rights and Freedoms.
 
-We honour the Non-Aggression Principle (NAP) moral framework. We stand unified against any and all forms of coercion, whether it’s through violence, or the implied threat of violence. We’re building a world based on voluntary agreements between consenting entities. 
+Every citizen is sovereign, and has the right to self determination and is at liberty to choose any form of expression or way to be human or posthuman and with whom to associate and cooperate. 
+
+Yet being all sovereign, and that sovereignty being universal and inalienable, no Citizen should harm another human or posthuman's life, health, liberty, or possessions. 
+
+Therefore, in the spirit of John Locke and his successors, we honour the non-aggression principle and we are united against any and all forms of coercion, whether through violence or the implied threat of violence. 
+
+There is no place for coercion in the world we are creating, which is founded on voluntary agreements between consenting Citizens and entities. 
 
 ## 6.1 Rules and Law
-
 Law is a system of rules created and incentivised to ensure our peace and protection when cooperating with others. Codes of Law are systems of Laws that cover most aspects of human and posthuman cooperation. As sovereign individuals, we choose and make rules, Laws and Codes of Law voluntarily, to agree solely on how we intend to cooperate with others.
 
 - We are sovereign individuals, and as such we practice *Polylegal Law*. All Citizens are free to voluntarily choose the rules, Laws or Codes of Law when making agreements to cooperate with others, whether those be existing Laws or Codes of Laws, such as Common Law, Sharia Law, Civil Law or Pashtunwali, or rules, Laws or Codes of Law of their own making.  
@@ -204,7 +209,7 @@ All of our work can be reviewed on our Slack channel and Trello board, and in th
 
 # Article 11: We are a Dream and a Reality.
 
-Some might think of us as radical outliers, as extremists on the fringes of society, a bunch of weirdos. Think again. We come from all ages and social strata of society. We are students, teachers, doctors, engineers, lawyers, entrepreneurs and even politicians and diplomats. We are your neighbours, your co-workers, your drinking buddies. We are what makes up the fabric of the society you live in. We are one of you, but one that has become aware of its political autonomy. And we work, every single day, to build a better world. Piece by piece, we build our infrastructure, one line of code, one meetup, one piece of documentation at the time. Together, we are building the toolset for peaceful self-sovereignty.
+Some might think of us as radical outliers, as extremists on the fringes of society, a bunch of weirdos. Think again. We come from all generations and social strata. We are students, teachers, doctors, engineers, lawyers, soldiers, traders, farmers, entrepreneurs, and home makers, even politicians and diplomats. We are your neighbours, your co-workers, your drinking buddies. We are both youth and experience. We are all that makes up the fabric of the societies we live in. We are one of you, but the ones that have become aware of our political autonomy and wish to reclaim our personal sovereignty. And we toil, every single day, to build a world without fear of coercion, where everyone is at liberty to be whosover they wish, and to choose whichever governance services they desire. Piece by piece, we build our infrastructure, one line of code, one meetup, one piece of documentation at the time. Together, we are laying the foundations for a world in which we can be self-sovereign in peace and preservation.
 
 # Article 12: We are BITNATION.
 
