@@ -113,7 +113,7 @@ Embassies and Consulates are where Citizens share their space, whether it’s an
 ## 2.9 Port 
 Like Amsterdam, Gothenburg and Liverpool, Venice and Hong Kong were constructed as ports to trade between Europe and those unknown places Europeans were beginning to perceive from the 14th to 17th centuries, BITNATION Ports are cntities incorporated in nation-state juridications to build diplomatic and trading relationship with DBVNs.
 
->Modeled on Vinay Gupta's idea that Dubai could become a *future port*, where ideas are imported from the domain of potential into the domain of reality, and then exported to the rest of the world,  administrative entities, such as for-profit or nonprofit companies or foundations in different Nation State jurisdictions will interact with legacy systems such as banks and governments on behalf of BITNATION or other DBVNs.
+Modeled on Vinay Gupta's idea that Dubai could become a *future port*, where ideas are imported from the domain of potential into the domain of reality, and then exported to the rest of the world,  administrative entities, such as for-profit or nonprofit companies or foundations in different Nation State jurisdictions will interact with legacy systems such as banks and governments on behalf of BITNATION or other DBVNs.
 
 # Article 3: We are a Future for Our World and Humanity.
 
