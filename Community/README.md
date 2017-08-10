@@ -1,5 +1,5 @@
 # Community Contribution
 
-Please find here various community contribution stuff. 
+Please find various community contribution material here. 
 
-**The following materials are comming from outside contributors, their content is HAS NOT BEEN ENDORSED BY THE CORE MEMBERS, it is only here for the sake of offering various points of views.**
+**The following materials are comming from outside contributors, the content of these documents HAS NOT BEEN ENDORSED BY THE BITNATION CORE MEMBERS, it is only here for the sake of offering various points of views.**
