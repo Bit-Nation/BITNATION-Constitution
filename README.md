@@ -233,6 +233,8 @@ Further reading:
 
 * [OPSEC Guidelines](https://docs.google.com/document/d/1E9uVmuW9_zhoStrcvkuK-3kg30ec7Qgj3qG4aK7IAic/edit), Published July 19 2017
 
+* [Holocracy.One Constitution](https://github.com/holacracyone/Holacracy-Constitution) By Brian J. Robertson
+
 ----
 
 
