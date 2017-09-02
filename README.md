@@ -231,6 +231,8 @@ Further reading:
 
 * [BITNATION Foundational Document](https://docs.google.com/document/d/16HDB9AABa5rTOVFJj_8VLdOxgMguovLLAMviaTkZ1q4/edit), Published July 14 2014 
 
+* [BITNATION and Pangea Contributor Guidelines](https://github.com/Bit-Nation/Pangea-Docs)
+
 * [OPSEC Guidelines](https://docs.google.com/document/d/1E9uVmuW9_zhoStrcvkuK-3kg30ec7Qgj3qG4aK7IAic/edit), Published July 19 2017
 
 * [Holocracy.One Constitution](https://github.com/holacracyone/Holacracy-Constitution) By Brian J. Robertson
