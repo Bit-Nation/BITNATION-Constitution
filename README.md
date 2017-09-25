@@ -223,7 +223,7 @@ We are sovereign. We are together. We are the future.
 
 Further reading:
 
-* [Pangea Jurisdiction Whitepaper](https://docs.google.com/document/d/1lnbUKaCzy1F3yrI73bMoIOAqK9h5mwtwuA_1z9G2Cqg/edit), Published July 2017:
+* [Pangea Jurisdiction Whitepaper](https://github.com/Bit-Nation/Pangea-Docs/blob/master/BITNATION%20Pangea%20Whitepaper%202017.pdf), Published July 2017:
 
 * [An evolutionary Nomic structure for digital rule making in BITNATION](https://docs.google.com/document/d/1l00egk-PyNIE4-kHZwFGA-asIB_rsIRwtbMPDZ0JYJ8/edit), Published Feburary 7 2016
 
