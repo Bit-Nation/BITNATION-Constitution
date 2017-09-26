@@ -227,7 +227,7 @@ Further reading:
 
 * [An evolutionary Nomic structure for digital rule making in BITNATION](https://docs.google.com/document/d/1l00egk-PyNIE4-kHZwFGA-asIB_rsIRwtbMPDZ0JYJ8/edit), Published Feburary 7 2016
 
-* [BITNATION Whitepaper](https://docs.google.com/document/d/1r_VqWrKQw07E06XAtMv_cZnFyBZma4PFTBJpM5GuzbA/edit), Published October 10 2014
+* [BITNATION Whitepaper](https://github.com/Bit-Nation/Pangea-Docs/blob/master/Bitnation%20Whitepaper%202014.pdf), Published October 10 2014
 
 * [BITNATION Foundational Document](https://docs.google.com/document/d/16HDB9AABa5rTOVFJj_8VLdOxgMguovLLAMviaTkZ1q4/edit), Published July 14 2014 
 
